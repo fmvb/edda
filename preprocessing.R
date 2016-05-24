@@ -1,11 +1,24 @@
 universities = read.csv(file='csv/universities.csv',header=TRUE,sep=",",
-                        nrows=200,stringsAsFactors=FALSE)
+                        nrows=200,stringsAsFactors=FALSE,
+                        na.strings=c("","NA"))
 
-columns_to_drop = c("year")
+universities = universities[ , -which(names(universities) %in% c("year"))]
+universities$income[universities$income=="-"] = NA
+
+# Print number of missing values per column
+for (i in 1:length(names(universities)))
+{
+  print(paste(names(universities)[i],
+  length(universities[i][is.na(universities[i])])))
+}
 
 # Convert income to numeric
 sapply(universities, class)
 universities$income=as.numeric(universities$income)
+# Fill missing income values with median
+hist(universities$income)
+universities$income[is.na(universities$income)] = 
+  median(universities$income,na.rm = T)
 
 # Remove '%' from international_students and convert to numeric
 universities$international_students = 
@@ -20,8 +33,15 @@ for (i in 1:length(universities$female_male_ratio))
   tmp = as.numeric(trim(strsplit(universities$female_male_ratio, ":")[[i]]))
   universities$f_m_ratio[i] = round(tmp[1]/tmp[2], 2)
 }
+hist(universities$f_m_ratio)
+length(universities$f_m_ratio[is.na(universities$f_m_ratio)])/
+  length(universities$f_m_ratio)
+# Fill missing female/male ratios with average of mean and median (close together)
+universities$f_m_ratio[is.na(universities$f_m_ratio)] = 
+  round(mean(c(mean(universities$f_m_ratio, na.rm=TRUE),
+               median(universities$f_m_ratio, na.rm=TRUE))),2)
+# remove temp column f_m_ratio
+universities$female_male_ratio = universities$f_m_ratio
+universities = universities[ , -which(names(universities) %in% c("f_m_ratio"))]
 
-
-hist(universities$income)
-cor(universities[c(4:9)])
-pairs(universities[c(4:9)])
+# TO DO: num_students
