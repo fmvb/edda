@@ -1,4 +1,4 @@
-universities = read.csv(file='csv/universities.csv',header=TRUE,sep=",",
+universities = read.csv(file='../csv/universities.csv',header=TRUE,sep=",",
                         nrows=200,stringsAsFactors=FALSE,
                         na.strings=c("","NA"))
 
