@@ -65,3 +65,23 @@ for (i in 1:length(universities$num_students))
     universities$nr_students = as.numeric(universities$nr_students)
   }
 }
+universities$nr_students[is.na(universities$nr_students)] = round(median(universities$nr_students,na.rm=TRUE))
+# remove temp column nr_students
+universities$num_students = universities$nr_students
+universities = universities[ , -which(names(universities) %in% c("nr_students"))]
+
+# Fill student staff ratio
+universities$student_staff_ratio[is.na(universities$student_staff_ratio)] = median(universities$student_staff_ratio,na.rm=TRUE)
+
+# Fill student staff ratio
+universities$international_students[is.na(universities$international_students)] = median(universities$international_students,na.rm=TRUE)
+
+# Create id column
+universities$id = 1:200
+
+# Move descriptive columns to seperate dataframe
+university_info = universities[c(14,2,3)]
+universities = universities[-c(2,3)]
+
+write.csv(universities, file="../csv/universities-cleaned.csv", row.names=FALSE)
+write.csv(university_info, file="../csv/universities-info.csv", row.names=FALSE)
