@@ -99,9 +99,10 @@ universities$student_staff_ratio[is.na(universities$student_staff_ratio)] =
 # create id column to identify university
 universities$id = 1:200
 
-# move descriptive columns to seperate dataframe
-university_info = universities[c(14,2,3)]
-universities = universities[-c(2,3)]
+# move descriptive columns to seperate dataframe, keep id in both to cross-reference
+columns = c("id", "university_name", "country", "world_rank")
+university_info = universities[ , which(names(universities) %in% columns)]
+universities = universities[,-which(names(universities) %in% setdiff(columns,"id"))]
 
 # write cleaned data set to csv
 write.csv(universities, file="csv/universities-cleaned.csv", row.names=FALSE)
