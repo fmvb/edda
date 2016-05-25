@@ -1,3 +1,41 @@
+################################################
+### Setting up models to predict total_score ###
+################################################
+
+### Read cleaned data set ###
+universities = read.csv(file='csv/universities-cleaned.csv',header=TRUE,sep=",")
+
+# Explore correlations
+cor(universities)
+pairs(universities)
+
+columns = c("total_score", "teaching", "research", "citations", "international_students")
+cor(universities[,which(names(universities) %in% columns)])
+pairs(universities[,which(names(universities) %in% columns)])
+
+### Step-up Method ###
+# first explanatory variable
+summary(lm(total_score~teaching, data=universities))                  # R2: 0.828,    p: <2e-16
+summary(lm(total_score~international, data=universities))             # R2: 0.02283,  p: 0.0327
+summary(lm(total_score~research, data=universities))               -> # R2: 0.8524,   p: <2e-16
+summary(lm(total_score~citations, data=universities))                 # R2: 0.2177,   p: 3.32e-12
+summary(lm(total_score~income, data=universities))                    # R2: 0.03142,  p: 0.012
+summary(lm(total_score~num_students, data=universities))              # R2: 0.005034, p: 0.318
+summary(lm(total_score~student_staff_ratio, data=universities))       # R2: 0.04352,  p: 0.00303
+summary(lm(total_score~international_students, data=universities))    # R2: 0.07823,  p: 6.04e-05
+summary(lm(total_score~female_male_ratio, data=universities))         # R2: 0.01948,  p: 0.0487
+
+# second explanatory variable
+summary(lm(total_score~research+teaching, data=universities))
+summary(lm(total_score~research+international, data=universities))
+summary(lm(total_score~research+citations, data=universities))
+summary(lm(total_score~research+income, data=universities))
+summary(lm(total_score~research+num_students, data=universities))
+summary(lm(total_score~research+student_staff_ratio, data=universities))
+summary(lm(total_score~research+international_students, data=universities))
+summary(lm(total_score~research+female_male_ratio, data=universities))
+
+
 
 summary(lm(total_score~research+student_staff_ratio, data=universities))
 summary(lm(total_score~research+international_students, data=universities))
