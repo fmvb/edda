@@ -45,3 +45,23 @@ universities$female_male_ratio = universities$f_m_ratio
 universities = universities[ , -which(names(universities) %in% c("f_m_ratio"))]
 
 # TO DO: num_students
+universities$nr_students = universities$num_students
+for (i in 1:length(universities$num_students))
+{
+  if (!is.na(universities$num_students[i]))
+  {
+    tmp = trim(strsplit(universities$num_students,",")[[i]])
+    if (!is.na(tmp[2]))
+    {
+      while (nchar(tmp[2]) < 3)
+      {
+        tmp[2] = paste(tmp[2],"0",sep="")
+      }
+      universities$nr_students[i] = paste(tmp[1],tmp[2],sep="")
+    } else
+    {
+      universities$nr_students[i] = tmp[1]
+    }
+    universities$nr_students = as.numeric(universities$nr_students)
+  }
+}
