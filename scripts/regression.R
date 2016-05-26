@@ -13,7 +13,9 @@ columns = c("total_score", "teaching", "research", "citations", "international_s
 cor(universities[,which(names(universities) %in% columns)])
 pairs(universities[,which(names(universities) %in% columns)])
 
-### Step-up Method ###
+################################################
+###              Step-up Method              ###
+################################################
 # first explanatory variable
 summary(lm(total_score~teaching, data=universities))                  # R2: 0.828,    p: <2e-16
 summary(lm(total_score~international, data=universities))             # R2: 0.02283,  p: 0.0327
@@ -91,9 +93,38 @@ summary(lm(total_score~research+citations+teaching+international+
              income+student_staff_ratio+female_male_ratio,
            data=universities))                                              # R2: 0.9999 -> insig. var.
 
-# step-up model
-unilm_stepup = lm(total_score~research+citations+teaching+international+
+# step-up model, found in sixth step
+unilm_su = lm(total_score~research+citations+teaching+international+
                     income+student_staff_ratio,data=universities)
-summary(unilm_stepup)
-coef(unilm_stepup)
-par(mfrow=c(1,2));qqnorm(residuals(unilm_stepup));plot(fitted(unilm_stepup),residuals(unilm_stepup))
+summary(unilm_su)
+coef(unilm_su)
+par(mfrow=c(1,2));qqnorm(residuals(unilm_su));plot(fitted(unilm_su),residuals(unilm_su))
+round(cooks.distance(unilm_su),5)
+
+
+################################################
+###             Step-down Method             ###
+################################################
+summary(lm(total_score~teaching+international+research+
+             citations+income+num_students+student_staff_ratio+
+             international_students+female_male_ratio,
+           data=universities))                                    # R2: 0.9999 -> rm female_male_ratio
+summary(lm(total_score~teaching+international+research+
+             citations+income+num_students+student_staff_ratio+
+             international_students,data=universities))           # R2: 0.9999 -> rm num_students
+summary(lm(total_score~teaching+international+research+
+             citations+income+student_staff_ratio+
+             international_students,data=universities))           # R2: 0.9999 -> rm international_students
+summary(lm(total_score~teaching+international+research+
+             citations+income+student_staff_ratio,
+           data=universities))                                    # R2: 0.9999 -> all significant
+
+
+unilm_sd = lm(total_score~teaching+international+research+
+                citations+income+student_staff_ratio,
+              data=universities)
+
+summary(unilm_sd)
+coef(unilm_sd)
+par(mfrow=c(1,2));qqnorm(residuals(unilm_sd));plot(fitted(unilm_sd),residuals(unilm_sd))
+round(cooks.distance(unilm_sd),5)
