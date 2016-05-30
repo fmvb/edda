@@ -23,4 +23,5 @@ prediction$predict_rank = 1:200
 universities = read.csv(file='csv/universities-info.csv',header=TRUE,sep=",")
 result = merge(prediction, universities[c(1,4)], by="id")
 #result = result[, which(names(result) %in% c("world_rank", "predict_rank"))]
-sum(result$predict_rank == result$id)/nrow(result)
+accuracy = sum(result$predict_rank == result$id)/nrow(result)
+cat(paste("Accuracy of prediction top 200: ", accuracy*100.0, "%", sep=""))
