@@ -4,11 +4,11 @@
 
 ### Read raw data for top 200 universities ###
 universities = read.csv(file='csv/universities.csv',header=TRUE,sep=",",
-                        nrows=200,stringsAsFactors=FALSE,
-                        na.strings=c("","NA"))
+                        stringsAsFactors=FALSE, na.strings=c("","NA"))
 # remove column year, all data is from 2016
 universities = universities[ , -which(names(universities) %in% c("year"))]
 universities$income[universities$income=="-"] = NA
+universities$female_male_ratio[universities$female_male_ratio=="-"] = NA
 
 ### Initial data exploration
 # print number of missing values per variable
@@ -26,7 +26,7 @@ trim = function (x) gsub("^\\s+|\\s+$", "", x)
 # convert income to numeric
 universities$income=as.numeric(universities$income)
 # Fill missing income values with median
-hist(universities$income)
+hist(universities$income, prob=TRUE, main="Histogram of income",xlab="income")
 universities$income[is.na(universities$income)] = 
   median(universities$income, na.rm=TRUE)
 
@@ -36,7 +36,8 @@ universities$international_students =
   as.numeric(substr(universities$international_students,1,
                     nchar(universities$international_students)-1))/100
 # fill missing values with median
-hist(universities$international_students,prob=TRUE)
+hist(universities$international_students,prob=TRUE, 
+     main="Histogram of international_students",xlab="international_students")
 universities$international_students[is.na(universities$international_students)] = 
   median(universities$international_students,na.rm=TRUE)
 
@@ -50,13 +51,11 @@ for (i in 1:length(universities$female_male_ratio))
 }
 
 # fill missing female/male ratios with average of mean and median (close together)
-hist(universities$f_m_ratio)
-length(universities$f_m_ratio[is.na(universities$f_m_ratio)])/
-  length(universities$f_m_ratio)
+hist(universities$f_m_ratio,prob=TRUE, 
+     main="Histogram of female_male_ratio",xlab="female_male_ratio")
 
 universities$f_m_ratio[is.na(universities$f_m_ratio)] = 
-  round(mean(c(mean(universities$f_m_ratio, na.rm=TRUE),
-               median(universities$f_m_ratio, na.rm=TRUE))),2)
+  round(median(universities$f_m_ratio[universities$f_m_ratio<4], na.rm=TRUE),2)
 # remove temp column f_m_ratio
 universities$female_male_ratio = universities$f_m_ratio
 universities = universities[ , -which(names(universities) %in% c("f_m_ratio"))]
@@ -97,7 +96,7 @@ universities$student_staff_ratio[is.na(universities$student_staff_ratio)] =
   median(universities$student_staff_ratio,na.rm=TRUE)
 
 # create id column to identify university
-universities$id = 1:200
+universities$id = 1:nrow(universities)
 
 # move descriptive columns to seperate dataframe, keep id in both to cross-reference
 columns = c("id", "university_name", "country", "world_rank")
