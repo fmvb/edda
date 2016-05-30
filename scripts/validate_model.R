@@ -2,8 +2,8 @@
 ###              Validate model              ###
 ################################################
 
-### Read cleaned data set ###
-universities = read.csv(file='csv/universities-cleaned.csv',header=TRUE,sep=",")
+### Read top 200 cleaned data set ###
+universities = read.csv(file='csv/universities-cleaned.csv',header=TRUE,sep=",",nrows=200)
 
 
 ### Predict score based on model ###
@@ -16,7 +16,7 @@ universities$predict_score = as.numeric(round(predict.lm(unilm_sd),1))
 ### Assign rank based on prediction
 prediction = universities[ , which(names(universities) %in% c("id", "predict_score"))]
 prediction = prediction[order(-prediction$predict_score),]
-prediction$predict_rank = 1:200
+prediction$predict_rank = 1:nrow(prediction)
 
 
 ### Compare predicted and actual rank
@@ -25,3 +25,7 @@ result = merge(prediction, universities[c(1,4)], by="id")
 #result = result[, which(names(result) %in% c("world_rank", "predict_rank"))]
 accuracy = sum(result$predict_rank == result$id)/nrow(result)
 cat(paste("Accuracy of prediction top 200: ", accuracy*100.0, "%", sep=""))
+
+
+### Read all 800 universities ###
+universities2 = read.csv(file='csv/universities-cleaned.csv',header=TRUE,sep=",")
