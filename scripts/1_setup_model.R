@@ -5,6 +5,14 @@
 ### Read cleaned data set ###
 universities = read.csv(file='csv/universities-cleaned.csv',header=TRUE,sep=",",nrows=200)
 
+# Distribution total_score
+hist(universities$total_score,
+     main="Histogram of total_score Top 200 universities",
+     xlab="Total score")
+
+boxplot(universities$total_score, main="Boxplot of total_score Top 200 universities", 
+        ylab="Total score")
+
 # Explore correlations
 cor(universities)
 pairs(universities)
