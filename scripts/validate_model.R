@@ -8,7 +8,7 @@ universities = read.csv(file='csv/universities-cleaned.csv',header=TRUE,sep=",",
 ### Predict score based on model ###
 unilm = lm(total_score~teaching+international+research+citations+income+student_staff_ratio,
               data=universities)
-universities$predict_score = as.numeric(round(predict.lm(unilm),3))
+universities$predict_score = as.numeric(round(predict.lm(unilm),1))
 
 ### Assign rank based on prediction
 prediction = universities[ , which(names(universities) %in% c("id", "predict_score"))]
