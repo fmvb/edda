@@ -3,7 +3,7 @@
 ################################################
 
 ### Read cleaned data set ###
-universities = read.csv(file='csv/universities-cleaned.csv',header=TRUE,sep=",")
+universities = read.csv(file='csv/universities-cleaned.csv',header=TRUE,sep=",",nrows=200)
 
 # Explore correlations
 cor(universities)
@@ -125,29 +125,17 @@ unilm_sd = lm(total_score~teaching+international+research+
               data=universities)
 
 summary(unilm_sd)
-coef(unilm_sd)
-par(mfrow=c(1,2));qqnorm(residuals(unilm_sd));plot(fitted(unilm_sd),residuals(unilm_sd))
-round(cooks.distance(unilm_sd),5)
 
+############################################################
+###                    Resulting model                   ###
+############################################################
+# Resulting model is the same for step-up and step-down
+unilm = lm(total_score~teaching+international+research+
+                citations+income+student_staff_ratio,
+              data=universities)
+summary(unilm)
 
-# step down without teaching (colinear)
-summary(lm(total_score~international+research+
-             citations+income+num_students+student_staff_ratio+
-             international_students+female_male_ratio,
-           data=universities))                                    # R2: 0.9752 -> rm international_students
-summary(lm(total_score~international+research+
-             citations+income+num_students+student_staff_ratio+
-             female_male_ratio ,data=universities))               # R2: 0.9751 -> rm female_male_ratio 
-summary(lm(total_score~international+research+
-             citations+income+num_students+student_staff_ratio
-             ,data=universities))                                 # R2: 0.9749 -> rm num_students
-summary(lm(total_score~international+research+
-             citations+income+student_staff_ratio
-           ,data=universities))                                   # R2: 0.9745 -> all significant
-
-unilm_sdnoteaching = lm(total_score~international+research+
-                          citations+income+student_staff_ratio,
-                      data=universities)
-coef(unilm_sdnoteaching)
-par(mfrow=c(1,2));qqnorm(residuals(unilm_sdnoteaching));plot(fitted(unilm_sdnoteaching),residuals(unilm_sdnoteaching))
-round(cooks.distance(unilm_sdnoteaching),5)
+coef(unilm)
+round(coef(unilm),3)
+par(mfrow=c(1,2));qqnorm(residuals(unilm));plot(fitted(unilm),residuals(unilm))
+round(cooks.distance(unilm),5)
