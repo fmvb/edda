@@ -1,801 +1,801 @@
-"world_rank","university_name","country","id"
-"1","California Institute of Technology","United States of America",1
-"2","University of Oxford","United Kingdom",2
-"3","Stanford University","United States of America",3
-"4","University of Cambridge","United Kingdom",4
-"5","Massachusetts Institute of Technology","United States of America",5
-"6","Harvard University","United States of America",6
-"7","Princeton University","United States of America",7
-"8","Imperial College London","United Kingdom",8
-"9","ETH Zurich – Swiss Federal Institute of Technology Zurich","Switzerland",9
-"10","University of Chicago","United States of America",10
-"11","Johns Hopkins University","United States of America",11
-"12","Yale University","United States of America",12
-"13","University of California, Berkeley","United States of America",13
-"14","University College London","United Kingdom",14
-"15","Columbia University","United States of America",15
-"16","University of California, Los Angeles","United States of America",16
-"17","University of Pennsylvania","United States of America",17
-"18","Cornell University","United States of America",18
-"19","University of Toronto","Canada",19
-"20","Duke University","United States of America",20
-"21","University of Michigan","United States of America",21
-"22","Carnegie Mellon University","United States of America",22
-"23","London School of Economics and Political Science","United Kingdom",23
-"24","University of Edinburgh","United Kingdom",24
-"25","Northwestern University","United States of America",25
-"26","National University of Singapore","Singapore",26
-"27","King’s College London","United Kingdom",27
-"28","Karolinska Institute","Sweden",28
-"29","LMU Munich","Germany",29
-"30","New York University","United States of America",30
-"31","École Polytechnique Fédérale de Lausanne","Switzerland",31
-"32","University of Washington","United States of America",32
-"33","University of Melbourne","Australia",33
-"34","University of British Columbia","Canada",34
-"35","KU Leuven","Belgium",35
-"36","University of Illinois at Urbana-Champaign","United States of America",36
-"37","Heidelberg University","Germany",37
-"38","McGill University","Canada",38
-"39","University of California, San Diego","United States of America",39
-"39","University of California, Santa Barbara","United States of America",40
-"41","Georgia Institute of Technology","United States of America",41
-"42","Peking University","China",42
-"43","University of Tokyo","Japan",43
-"44","University of California, Davis","United States of America",44
-"44","University of Hong Kong","Hong Kong",45
-"46","University of Texas at Austin","United States of America",46
-"47","Tsinghua University","China",47
-"47","Wageningen University and Research Center","Netherlands",48
-"49","Humboldt University of Berlin","Germany",49
-"50","University of Wisconsin-Madison","United States of America",50
-"51","Brown University","United States of America",51
-"52","Australian National University","Australia",52
-"53","Technical University of Munich","Germany",53
-"54","École Normale Supérieure","France",54
-"55","Nanyang Technological University","Singapore",55
-"56","University of Manchester","United Kingdom",56
-"56","University of Sydney","Australia",57
-"58","University of Amsterdam","Netherlands",58
-"59","Hong Kong University of Science and Technology","Hong Kong",59
-"60","The University of Queensland","Australia",60
-"60","Washington University in St Louis","United States of America",61
-"62","Utrecht University","Netherlands",62
-"63","University of North Carolina at Chapel Hill","United States of America",63
-"64","Boston University","United States of America",64
-"65","Delft University of Technology","Netherlands",65
-"65","University of Minnesota","United States of America",66
-"67","Leiden University","Netherlands",67
-"68","University of Southern California","United States of America",68
-"69","University of Bristol","United Kingdom",69
-"70","Durham University","United Kingdom",70
-"71","Erasmus University Rotterdam","Netherlands",71
-"72","Free University of Berlin","Germany",72
-"73","Monash University","Australia",73
-"74","University of Groningen","Netherlands",74
-"75","Pennsylvania State University","United States of America",75
-"76","University of Glasgow","United Kingdom",76
-"76","University of Helsinki","Finland",77
-"78","University of Tübingen","Germany",78
-"79","University of Pittsburgh","United States of America",79
-"80","University of Warwick","United Kingdom",80
-"81","Uppsala University","Sweden",81
-"82","University of Copenhagen","Denmark",82
-"82","University of New South Wales","Australia",83
-"84","University of Freiburg","Germany",84
-"85","Seoul National University","South Korea",85
-"86","University of St Andrews","United Kingdom",86
-"87","Vanderbilt University","United States of America",87
-"88","Kyoto University","Japan",88
-"88","Maastricht University","Netherlands",89
-"90","Emory University","United States of America",90
-"90","Lund University","Sweden",91
-"90","Ohio State University","United States of America",92
-"93","University of Exeter","United Kingdom",93
-"94","University of Bonn","Germany",94
-"94","Georgetown University","United States of America",95
-"94","McMaster University","Canada",96
-"97","University of Sheffield","United Kingdom",97
-"98","Queen Mary University of London","United Kingdom",98
-"99","University of Göttingen","Germany",99
-"99","Michigan State University","United States of America",100
-"101","University of Basel","Switzerland",101
-"101","École Polytechnique","France",102
-"101","Rice University","United States of America",103
-"104","Dartmouth College","United States of America",104
-"104","University of Zurich","Switzerland",105
-"106","Aarhus University","Denmark",106
-"106","University of California, Irvine","United States of America",107
-"106","University of Mannheim","Germany",108
-"108","University of Notre Dame","United States of America",109
-"109","University of Western Australia","Australia",110
-"110","RWTH Aachen University","Germany",111
-"110","University of Southampton","United Kingdom",112
-"112","Scuola Normale Superiore di Pisa","Italy",113
-"113","University of Montreal","Canada",114
-"113","Pierre and Marie Curie University","France",115
-"113","Purdue University","United States of America",116
-"116","Pohang University of Science and Technology","South Korea",117
-"117","University of Maryland, College Park","United States of America",118
-"118","Ghent University","Belgium",119
-"119","University of Birmingham","United Kingdom",120
-"120","University of Bern","Switzerland",121
-"120","University of Cape Town","South Africa",122
-"120","University of Florida","United States of America",123
-"123","University of Erlangen-Nuremberg","Germany",124
-"123","Rutgers, the State University of New Jersey","United States of America",125
-"125","University of Münster","Germany",126
-"125","Radboud University Nijmegen","Netherlands",127
-"127","University of Colorado Boulder","United States of America",128
-"127","Tufts University","United States of America",129
-"129","Royal Holloway, University of London","United Kingdom",130
-"130","Lancaster University","United Kingdom",131
-"131","University of Geneva","Switzerland",132
-"131","University of York","United Kingdom",133
-"133","Case Western Reserve University","United States of America",134
-"133","University of Leeds","United Kingdom",135
-"135","University of Oslo","Norway",136
-"136","Stockholm University","Sweden",137
-"137","University of Alberta","Canada",138
-"138","Chinese University of Hong Kong","Hong Kong",139
-"138","Karlsruhe Institute of Technology","Germany",140
-"140","University of Sussex","United Kingdom",141
-"141","University of Massachusetts","United States of America",142
-"142","University of Vienna","Austria",143
-"143","University of Nottingham","United Kingdom",144
-"144","University of California, Santa Cruz","United States of America",145
-"144","University of Lausanne","Switzerland",146
-"146","Autonomous University of Barcelona","Spain",147
-"147","University of Virginia","United States of America",148
-"148","Korea Advanced Institute of Science and Technology (KAIST)","South Korea",149
-"149","University of Adelaide","Australia",150
-"149","University of East Anglia","United Kingdom",151
-"149","University of Twente","Netherlands",152
-"153","Sungkyunkwan University (SKKU)","South Korea",153
-"154","VU University Amsterdam","Netherlands",154
-"155","KTH Royal Institute of Technology","Sweden",155
-"156","University of Cologne","Germany",156
-"157","University of Liverpool","United Kingdom",157
-"158","TU Dresden","Germany",158
-"158","University of Rochester","United States of America",159
-"160","Trinity College Dublin","Republic of Ireland",160
-"161","Lomonosov Moscow State University","Russian Federation",161
-"161","University of Miami","United States of America",162
-"163","University of Arizona","United States of America",163
-"164","Pompeu Fabra University","Spain",164
-"164","University of Reading","United Kingdom",165
-"164","Yeshiva University","United States of America",166
-"167","University of California, Riverside","United States of America",167
-"167","University of Leicester","United Kingdom",168
-"167","National Taiwan University","Taiwan",169
-"167","Technical University of Denmark","Denmark",170
-"167","Université Catholique de Louvain","Belgium",171
-"172","University of Aberdeen","United Kingdom",172
-"172","University of Auckland","New Zealand",173
-"174","University of Barcelona","Spain",174
-"175","University of Konstanz","Germany",175
-"176","Eindhoven University of Technology","Netherlands",176
-"176","University College Dublin","Republic of Ireland",177
-"178","Hebrew University of Jerusalem","Israel",178
-"179","University of Waterloo","Canada",179
-"180","University of Gothenburg","Sweden",180
-"180","Scuola Superiore Sant’Anna","Italy",181
-"182","University of Bergen","Norway",182
-"182","Cardiff University","United Kingdom",183
-"182","University of Utah","United States of America",184
-"185","Brandeis University","United States of America",185
-"185","University of Dundee","United Kingdom",186
-"185","University of Würzburg","Germany",187
-"188","Paris-Sud University","France",188
-"189","Arizona State University","United States of America",189
-"190","University of Antwerp","Belgium",190
-"190","Boston College","United States of America",191
-"192","Ulm University","Germany",192
-"193","University of Luxembourg","Luxembourg",193
-"193","Texas A&M University","United States of America",194
-"195","Charité - Universitätsmedizin Berlin","Germany",195
-"196","Newcastle University","United Kingdom",196
-"196","St George’s, University of London","United Kingdom",197
-"198","University of Trento","Italy",198
-"199","Paris Diderot University – Paris 7","France",199
-"200","Queen’s University Belfast","United Kingdom",200
-"201-250","Aalborg University","Denmark",201
-"201-250","Birkbeck, University of London","United Kingdom",202
-"201-250","University of Bologna","Italy",203
-"201-250","University at Buffalo","United States of America",204
-"201-250","University of Calgary","Canada",205
-"201-250","Chalmers University of Technology","Sweden",206
-"201-250","City University of Hong Kong","Hong Kong",207
-"201-250","Copenhagen Business School","Denmark",208
-"201-250","Dalhousie University","Canada",209
-"201-250","University of Duisburg-Essen","Germany",210
-"201-250","École Normale Supérieure de Lyon","France",211
-"201-250","Florida State University","United States of America",212
-"201-250","University of Fribourg","Switzerland",213
-"201-250","Fudan University","China",214
-"201-250","George Washington University","United States of America",215
-"201-250","Goethe University Frankfurt","Germany",216
-"201-250","University of Hawai’i at Mānoa","Unisted States of America",217
-"201-250","Hong Kong Polytechnic University","Hong Kong",218
-"201-250","University of Illinois at Chicago","United States of America",219
-"201-250","Indiana University","United States of America",220
-"201-250","University of Iowa","United States of America",221
-"201-250","Johannes Gutenberg University of Mainz","Germany",222
-"201-250","Joseph Fourier University","France",223
-"201-250","University of Kiel","Germany",224
-"201-250","Laval University","Canada",225
-"201-250","Medical University of Vienna","Austria",226
-"201-250","Northeastern University","United States of America",227
-"201-250","Oregon Health and Science University","United States of America",228
-"201-250","University of Otago","New Zealand",229
-"201-250","University of Ottawa","Canada",230
-"201-250","Paris Descartes University","France",231
-"201-250","Peter the Great St Petersburg Polytechnic University","Russian Federation",232
-"201-250","Polytechnic University of Milan","Italy",233
-"201-250","Royal Veterinary College","United Kingdom",234
-"201-250","Rush University","United States of America",235
-"201-250","Sapienza University of Rome","Italy",236
-"201-250","University of Science and Technology of China","China",237
-"201-250","University of South Florida","United States of America",238
-"201-250","Stony Brook University","United States of America",239
-"201-250","University of Stuttgart","Germany",240
-"201-250","Swedish University of Agricultural Sciences","Sweden",241
-"201-250","Technical University of Darmstadt","Germany",242
-"201-250","University of Technology Sydney","Australia",243
-"201-250","Tel Aviv University","Israel",244
-"201-250","University of Texas at Dallas","United States of America",245
-"201-250","Tilburg University","Netherlands",246
-"201-250","Tohoku University","Japan",247
-"201-250","Tokyo Institute of Technology","Japan",248
-"201-250","University of Victoria","Canada",249
-"201-250","Wake Forest University","United States of America",250
-"201-250","University of Western Ontario","Canada",251
-"201-250","William & Mary","United States of America",252
-"201-250","University of the Witwatersrand","South Africa",253
-"251-300","Aalto University","Finland",254
-"251-300","Aix-Marseille University","France",255
-"251-300","University of Bath","United Kingdom",256
-"251-300","Bayreuth University","Germany",257
-"251-300","Bielefeld University","Germany",258
-"251-300","University of Bordeaux","France",259
-"251-300","Charles Darwin University","Australia",260
-"251-300","Colorado School of Mines","United States of America",261
-"251-300","Colorado State University","United States of America",262
-"251-300","University of Delaware","United States of America",263
-"251-300","Flinders University","Australia",264
-"251-300","University of Georgia","United States of America",265
-"251-300","Griffith University","Australia",266
-"251-300","University of Iceland","Iceland",267
-"251-300","Indian Institute of Science","India",268
-"251-300","Iowa State University","United States of America",269
-"251-300","James Cook University","Australia",270
-"251-300","Justus Liebig University Giessen","Germany",271
-"251-300","King Abdulaziz University","Saudi Arabia",272
-"251-300","Koç University","Turkey",273
-"251-300","Korea University","South Korea",274
-"251-300","University of Liège","Belgium",275
-"251-300","Linköping University","Sweden",276
-"251-300","Nanjing University","China",277
-"251-300","National Tsing Hua University","Taiwan",278
-"251-300","National University of Ireland, Galway","Republic of Ireland",279
-"251-300","University of Newcastle","Australia",280
-"251-300","North Carolina State University","United States of America",281
-"251-300","Oregon State University","United States of America",282
-"251-300","Osaka University","Japan",283
-"251-300","Queen’s University","Canada",284
-"251-300","Queensland University of Technology","Australia",285
-"251-300","Rensselaer Polytechnic Institute","United States of America",286
-"251-300","Royal College of Surgeons in Ireland","Republic of Ireland",287
-"251-300","Ruhr University Bochum","Germany",288
-"251-300","Saint Louis University","United States of America",289
-"251-300","University of São Paulo","Brazil",290
-"251-300","Simon Fraser University","Canada",291
-"251-300","University of Surrey","United Kingdom",292
-"251-300","Syracuse University","United States of America",293
-"251-300","University of Tasmania","Australia",294
-"251-300","University of Tennessee, Knoxville","United States of America",295
-"251-300","Tomsk Polytechnic University","Russian Federation",296
-"251-300","Tulane University","United States of America",297
-"251-300","Umeå University","Sweden",298
-"251-300","Vienna University of Technology","Austria",299
-"251-300","Virginia Polytechnic Institute and State University","United States of America",300
-"251-300","University of Wollongong","Australia",301
-"251-300","Zhejiang University","China",302
-"301-350","Aberystwyth University","United Kingdom",303
-"301-350","University of Alaska Fairbanks","United States of America",304
-"301-350","Autonomous University of Madrid","Spain",305
-"301-350","Bangor University","United Kingdom",306
-"301-350","University of Bremen","Germany",307
-"301-350","University of Cincinnati","United States of America",308
-"301-350","University of Connecticut","United States of America",309
-"301-350","Deakin University","Australia",310
-"301-350","University of Essex","United Kingdom",311
-"301-350","George Mason University","United States of America",312
-"301-350","University of Greifswald","Germany",313
-"301-350","Gwangju Institute of Science and Technology","South Korea",314
-"301-350","University of Hohenheim","Germany",315
-"301-350","University of Innsbruck","Austria",316
-"301-350","Kazan Federal University","Russian Federation",317
-"301-350","University of Kent","United Kingdom",318
-"301-350","Leibniz University of Hanover","Germany",319
-"301-350","Macquarie University","Australia",320
-"301-350","Medical College of Wisconsin","United States of America",321
-"301-350","University of Milan","Italy",322
-"301-350","University of Milan-Bicocca","Italy",323
-"301-350","Montpellier University","France",324
-"301-350","Nagoya University","Japan",325
-"301-350","University of Naples Federico II","Italy",326
-"301-350","National Chiao Tung University","Taiwan",327
-"301-350","National Research Nuclear University MePhI","Russian Federation",328
-"301-350","National Taiwan University of Science and Technology (Taiwan Tech)","Taiwan",329
-"301-350","University of Navarra","Spain",330
-"301-350","University of Nebraska-Lincoln","United States of America",331
-"301-350","Örebro University","Sweden",332
-"301-350","University of Oregon","United States of America",333
-"301-350","University of Padua","Italy",334
-"301-350","University of Pavia","Italy",335
-"301-350","Plymouth University","United Kingdom",336
-"301-350","Shanghai Jiao Tong University","China",337
-"301-350","University of Southern Denmark","Denmark",338
-"301-350","Stellenbosch University","South Africa",339
-"301-350","University of Strasbourg","France",340
-"301-350","Technical University of Dortmund","Germany",341
-"301-350","Technion Israel Institute of Technology","Israel",342
-"301-350","Toulouse 1 Capitole University","France",343
-"301-350","University of Trieste","Italy",344
-"301-350","University of Turin","Italy",345
-"301-350","University of Turku","Finland",346
-"301-350","Vrije Universiteit Brussel","Belgium",347
-"301-350","VŠB - Technical University of Ostrava","Czech Republic",348
-"301-350","Yonsei University","South Korea",349
-"301-350","York University","Canada",350
-"351-400","Bilkent University","Turkey",351
-"351-400","Binghamton University, State University of New York","United States of America",352
-"351-400","University of Crete","Greece",353
-"351-400","University of Cyprus","Cyprus",354
-"351-400","Drexel University","United States of America",355
-"351-400","University of Eastern Finland","Finland",356
-"351-400","University of Florence","Italy",357
-"351-400","University of St Gallen","Switzerland",358
-"351-400","Graz University of Technology","Austria",359
-"351-400","University of Guelph","Canada",360
-"351-400","Hanyang University","South Korea",361
-"351-400","Hong Kong Baptist University","Hong Kong",362
-"351-400","University of Houston","United States of America",363
-"351-400","Indian Institute of Technology Bombay","India",364
-"351-400","Instituto Superior Técnico Lisboa","Portugal",365
-"351-400","University of Jyväskylä","Finland",366
-"351-400","La Trobe University","Australia",367
-"351-400","Loughborough University","United Kingdom",368
-"351-400","University of Manitoba","Canada",369
-"351-400","University of Missouri","United States of America",370
-"351-400","University of Modena and Reggio Emilia","Italy",371
-"351-400","University of Montana","United States of America",372
-"351-400","National University of Ireland, Maynooth","Republic of Ireland",373
-"351-400","University of Nebraska Medical Center","United States of America",374
-"351-400","University of New Mexico","United States of America",375
-"351-400","Norwegian University of Science and Technology","Norway",376
-"351-400","University of Oulu","Finland",377
-"351-400","Panthéon-Sorbonne University – Paris 1","France",378
-"351-400","Polytechnic University of Turin","Italy",379
-"351-400","University of Rome III","Italy",380
-"351-400","Sabancı University","Turkey",381
-"351-400","San Diego State University","United States of America",382
-"351-400","University of South Australia","Australia",383
-"351-400","University of South Carolina","United States of America",384
-"351-400","University of South Dakota","United States of America",385
-"351-400","State University of Campinas","Brazil",386
-"351-400","University of Stirling","United Kingdom",387
-"351-400","Sun Yat-sen University","China",388
-"351-400","Swansea University","United Kingdom",389
-"351-400","Swinburne University of Technology","Australia",390
-"351-400","University of Tartu","Estonia",391
-"351-400","Temple University","United States of America",392
-"351-400","University of Texas at San Antonio","United States of America",393
-"351-400","UiT The Arctic University of Norway","Norway",394
-"351-400","Université Libre de Bruxelles","Belgium",395
-"351-400","Lille 2 University – Health and Law","France",396
-"351-400","University College Cork","Republic of Ireland",397
-"351-400","Verona University","Italy",398
-"351-400","Victoria University of Wellington","New Zealand",399
-"351-400","Washington State University","United States of America",400
-"351-400","Wayne State University","United States of America",401
-"401-500","American University","United States of America",402
-"401-500","Aston University","Unted Kingdom",403
-"401-500","University of Aveiro","Portugal",404
-"401-500","University of Bari Aldo Moro","Italy",405
-"401-500","Bar-Ilan University","Israel",406
-"401-500","Bournemouth University","United Kingdom",407
-"401-500","University of Brescia","Italy",408
-"401-500","Brno University of Technology","Czech Republic",409
-"401-500","Brunel University London","United Kingdom",410
-"401-500","Ca’ Foscari University of Venice","Italy",411
-"401-500","University of Cagliari","Italy",412
-"401-500","University of Canterbury","New Zealand",413
-"401-500","Catholic University of the Sacred Heart","Italy",414
-"401-500","Charles University in Prague","Czech Republic",415
-"401-500","China Medical University, Taiwan","Taiwan",416
-"401-500","City University London","United Kingdom",417
-"401-500","Claude Bernard University Lyon 1","France",418
-"401-500","University of Coimbra","Portugal",419
-"401-500","Complutense University of Madrid","Spain",420
-"401-500","Concordia University","Canada",421
-"401-500","Curtin University","Australia",422
-"401-500","Dublin City University","Republic of Ireland",423
-"401-500","East China University of Science and Technology","China",424
-"401-500","Ewha Womans University","South Korea",425
-"401-500","Federico Santa María Technical University","Chile",426
-"401-500","University of Ferrara","Italy",427
-"401-500","Florida International University","United States of America",428
-"401-500","University of Genoa","Italy",429
-"401-500","Georgia State University","United States of America",430
-"401-500","University of Graz","Austria",431
-"401-500","Heriot-Watt University","United Kingdom",432
-"401-500","Hokkaido University","Japan",433
-"401-500","Howard University","United States of America",434
-"401-500","University of Hull","United Kingdom",435
-"401-500","University of Idaho","United States of America",436
-"401-500","Indian Institute of Technology Delhi","India",437
-"401-500","Indian Institute of Technology Kharagpur","India",438
-"401-500","Indian Institute of Technology Madras","India",439
-"401-500","University of Ioannina","Greece",440
-"401-500","Iran University of Science and Technology","Iran",441
-"401-500","Johannes Kepler University of Linz","Austria",442
-"401-500","University of Kaiserslautern","Germany",443
-"401-500","Keele University","United Kingdom",444
-"401-500","University of KwaZulu-Natal","South Africa",445
-"401-500","Kyung Hee University","South Korea",446
-"401-500","Kyushu University","Japan",447
-"401-500","Lehigh University","United States of America",448
-"401-500","Louisiana State University","United States of America",449
-"401-500","University of Macau","Macau",450
-"401-500","Makerere University","Uganda",451
-"401-500","Marche Polytechnic University","Italy",452
-"401-500","University of Maryland, Baltimore County","United States of America",453
-"401-500","Murdoch University","Australia",454
-"401-500","University of Nantes","France",455
-"401-500","National and Kapodistrian University of Athens","Greece",456
-"401-500","National Autonomous University of Mexico","Mexico",457
-"401-500","National Cheng Kung University","Taiwan",458
-"401-500","National Institute of Applied Sciences of Lyon (INSA Lyon)","France",459
-"401-500","National Yang-Ming University","Taiwan",460
-"401-500","University of Neuchâtel","Switzerland",461
-"401-500","New University of Lisbon","Portugal",462
-"401-500","University of Nice Sophia Antipolis","France",463
-"401-500","Novosibirsk State University","Russian Federation",464
-"401-500","The Open University","United Kingdom",465
-"401-500","Oxford Brookes University","United Kingdom",466
-"401-500","University of Palermo","Italy",467
-"401-500","University of Parma","Italy",468
-"401-500","University of Pisa","Italy",469
-"401-500","Polytechnic University of Catalonia","Spain",470
-"401-500","Pontifical Catholic University of Chile","Chile",471
-"401-500","University of Porto","Portugal",472
-"401-500","University of Portsmouth","United Kingdom",473
-"401-500","RMIT University","Australia",474
-"401-500","University of Rome II – Tor Vergata","Italy",475
-"401-500","University of Rovira i Virgili","Spain",476
-"401-500","Saint Petersburg State University","Russian Federation",477
-"401-500","University of Salento","Italy",478
-"401-500","University of San Francisco","United States of America",479
-"401-500","University of Saskatchewan","Canada",480
-"401-500","Sharif University of Technology","Iran",481
-"401-500","University of Siena","Italy",482
-"401-500","Southern Cross University","Australia",483
-"401-500","State University of New York Albany","United States of America",484
-"401-500","University of Strathclyde","United Kingdom",485
-"401-500","University of Tampere","Finland",486
-"401-500","Tampere University of Technology","Finland",487
-"401-500","Tokyo Medical and Dental University (TMDU)","Japan",488
-"401-500","Tokyo Metropolitan University","Japan",489
-"401-500","University of Tsukuba","Japan",490
-"401-500","University of Ulsan","South Korea",491
-"401-500","Ulster University","United Kingdom",492
-"401-500","Université du Québec à Montréal","Canada",493
-"401-500","Universiti Teknologi Malaysia","Malaysia",494
-"401-500","University of Urbino Carlo Bo","Italy",495
-"401-500","University of Valencia","Spain",496
-"401-500","University of Waikato","New Zealand",497
-"401-500","Western Sydney University","Australia",498
-"401-500","Wuhan University","China",499
-"401-500","Xiamen University","China",500
-"501-600","American University of Beirut","Lebanon",501
-"501-600","Amirkabir University of Technology","Iran",502
-"501-600","University of the Andes, Colombia","Colombia",503
-"501-600","University of Arkansas","United States of America",504
-"501-600","Auburn University","United States of America",505
-"501-600","Babeş-Bolyai University","Romania",506
-"501-600","University of the Basque Country","Spain",507
-"501-600","Bauman Moscow State Technical University","Russian Federation",508
-"501-600","Ben-Gurion University of the Negev","Israel",509
-"501-600","Blaise Pascal University","France",510
-"501-600","Boğaziçi University","Turkey",511
-"501-600","University of Burgundy","France",512
-"501-600","University of Canberra","Australia",513
-"501-600","Carleton University","Canada",514
-"501-600","University of Catania","Italy",515
-"501-600","Central Queensland University","Australia",516
-"501-600","University of Chile","Chile",517
-"501-600","China Agricultural University","China",518
-"501-600","Chung-Ang University","South Korea",519
-"501-600","Czech Technical University in Prague","Czech Republic",520
-"501-600","De Montfort University","United Kingdom",521
-"501-600","East China Normal University","China",522
-"501-600","Edith Cowan University","Australia",523
-"501-600","Federal University of Rio de Janeiro","Brazil",524
-"501-600","University of Granada","Spain",525
-"501-600","University of Haifa","Israel",526
-"501-600","Harbin Institute of Technology","China",527
-"501-600","University of Hertfordshire","United Kingdom",528
-"501-600","Hiroshima University","Japan",529
-"501-600","Huazhong University of Science and Technology","China",530
-"501-600","Indian Institute of Technology Guwahati","India",531
-"501-600","Indian Institute of Technology Kanpur","India",532
-"501-600","Indian Institute of Technology Roorkee","India",533
-"501-600","Isfahan University of Technology","Iran",534
-"501-600","Istanbul Technical University","Turkey",535
-"501-600","Jadavpur University","India",536
-"501-600","Kanazawa University","Japan",537
-"501-600","Kansas State University","United States of America",538
-"501-600","Keio University","Japan",539
-"501-600","Kent State University","United States of America",540
-"501-600","King Fahd University of Petroleum and Minerals","Saudi Arabia",541
-"501-600","King Saud University","Saudi Arabia",542
-"501-600","University of La Laguna","Spain",543
-"501-600","Lappeenranta University of Technology","Finland",544
-"501-600","University of Limerick","Republic of Ireland",545
-"501-600","University of Lisbon","Portugal",546
-"501-600","Liverpool John Moores University","United Kingdom",547
-"501-600","Mahidol University","Thailand",548
-"501-600","Manchester Metropolitan University","United Kingdom",549
-"501-600","University of Maribor","Slovenia",550
-"501-600","Masaryk University","Czech Republic",551
-"501-600","Massey University","New Zealand",552
-"501-600","Memorial University of Newfoundland","Canada",553
-"501-600","Middle East Technical University","Turkey",554
-"501-600","University of Minho","Portugal",555
-"501-600","Missouri University of Science and Technology","United States of America",556
-"501-600","Montana State University","United States of America",557
-"501-600","Monterrey Institute of Technology and Higher Education","Mexico",558
-"501-600","National Central University","Taiwan",559
-"501-600","National Sun Yat-Sen University","Taiwan",560
-"501-600","National Taiwan Normal University","Taiwan",561
-"501-600","National Technical University of Athens","Greece",562
-"501-600","New Jersey Institute of Technology","United States of America",563
-"501-600","New Mexico State University","United States of America",564
-"501-600","University of North Carolina at Greensboro","United States of America",565
-"501-600","Oklahoma State University","United States of America",566
-"501-600","Osaka City University","Japan",567
-"501-600","Otto von Guericke University of Magdeburg","Germany",568
-"501-600","University of Oviedo","Spain",569
-"501-600","Palacký University in Olomouc","Czech Republic",570
-"501-600","Panjab University","India",571
-"501-600","Paris Dauphine University","France",572
-"501-600","Pontifical Catholic University of Rio de Janeiro (PUC-Rio)","Brazil",573
-"501-600","Portland State University","United States of America",574
-"501-600","University of Pretoria","South Africa",575
-"501-600","Pusan National University","South Korea",576
-"501-600","Quaid-i-azam University","Pakistan",577
-"501-600","University of Regina","Canada",578
-"501-600","Renmin University of China","China",579
-"501-600","University of Rennes 1","France",580
-"501-600","University of Salamanca","Spain",581
-"501-600","University of Santiago de Compostela","Spain",582
-"501-600","Semmelweis University","Hungary",583
-"501-600","University of Seville","Spain",584
-"501-600","Université de Sherbrooke","Canada",585
-"501-600","Soochow University","China",586
-"501-600","South China University of Technology","China",587
-"501-600","Tallinn University of Technology","Estonia",588
-"501-600","Tehran University of Medical Sciences","Iran",589
-"501-600","University of Texas at Arlington","United States of America",590
-"501-600","Tianjin University","China",591
-"501-600","Tokyo University of Agriculture and Technology","Japan",592
-"501-600","University of Toledo","United States of America",593
-"501-600","Tongji University","China",594
-"501-600","University of Tulsa","United States of America",595
-"501-600","United Arab Emirates University","United Arab Emirates",596
-"501-600","University of Warsaw","Poland",597
-"501-600","University of Wisconsin-Milwaukee","United States of America",598
-"501-600","Xi’an Jiaotong University","China",599
-"501-600","University of Zaragoza","Spain",600
-"601-800","University of A Coruña","Spain",601
-"601-800","Adam Mickiewicz University","Poland",602
-"601-800","AGH University of Science and Technology","Poland",603
-"601-800","Ajou University","South Korea",604
-"601-800","University of Alcalá","Spain",605
-"601-800","Alexandria University","Egypt",606
-"601-800","Alexandru Ioan Cuza University","Romania",607
-"601-800","Aligarh Muslim University","India",608
-"601-800","American University of Sharjah","United Arab Emirates",609
-"601-800","Amrita University","India",610
-"601-800","Anadolu University","Turkey",611
-"601-800","Andhra University","India",612
-"601-800","University of Antioquia","Colombia",613
-"601-800","Aristotle University of Thessaloniki","Greece",614
-"601-800","Asia University, Taiwan","Taiwan",615
-"601-800","Athens University of Economics and Business","Greece",616
-"601-800","Auckland University of Technology","New Zealand",617
-"601-800","Austral University of Chile","Chile",618
-"601-800","Beijing Institute of Technology","China",619
-"601-800","Belarusian State University","Belarus",620
-"601-800","University of Belgrade","Serbia",621
-"601-800","Birla Institute of Technology and Science, Pilani","India",622
-"601-800","University of Bradford","United Kingdom",623
-"601-800","University of Brasília","Brazil",624
-"601-800","University of Brighton","United Kingdom",625
-"601-800","University of Bucharest","Romania",626
-"601-800","Budapest University of Technology and Economics","Hungary",627
-"601-800","Cairo University","Egypt",628
-"601-800","University of Calcutta","India",629
-"601-800","California State University, Long Beach","United States of America",630
-"601-800","Capital Medical University","China",631
-"601-800","University of Castilla-La Mancha","Spain",632
-"601-800","University of Central Lancashire","United Kingdom",633
-"601-800","University of Cergy-Pontoise","France",634
-"601-800","Chang Gung University","Taiwan",635
-"601-800","Carlos III University of Madrid","Spain",636
-"601-800","University of Chemistry and Technology, Prague","Czech Republic",637
-"601-800","Chiang Mai University","Thailand",638
-"601-800","Chiba University","Japan",639
-"601-800","China University of Geosciences (Wuhan)","China",640
-"601-800","China University of Petroleum (Beijing)","China",641
-"601-800","Chonbuk National University","South Korea",642
-"601-800","Chongqing University","China",643
-"601-800","Chonnam National University","South Korea",644
-"601-800","Chulalongkorn University","Thailand",645
-"601-800","Chung Yuan Christian University","Taiwan",646
-"601-800","Chungnam National University","South Korea",647
-"601-800","Clemson University","United States of America",648
-"601-800","Comenius University in Bratislava","Slovakia",649
-"601-800","Coventry University","United Kingdom",650
-"601-800","Dalian University of Technology","China",651
-"601-800","University of Debrecen","Hungary",652
-"601-800","University of Delhi","India",653
-"601-800","University of Dhaka","Bangladesh",654
-"601-800","Dublin Institute of Technology","Republic of Ireland",655
-"601-800","Ehime University","Japan",656
-"601-800","University of Electronic Science and Technology of China","China",657
-"601-800","Eötvös Loránd University","Hungary",658
-"601-800","Erciyes University","Turkey",659
-"601-800","Federal University of Bahia","Brazil",660
-"601-800","Federal University of Minas Gerais","Brazil",661
-"601-800","Federal University of Paraná (UFPR)","Brazil",662
-"601-800","Federal University of Rio Grande do Sul","Brazil",663
-"601-800","Federal University of Santa Catarina","Brazil",664
-"601-800","Federal University of São Carlos","Brazil",665
-"601-800","Federal University of Viçosa","Brazil",666
-"601-800","Federal University of Lavras","Brazil",667
-"601-800","Feng Chia University","Taiwan",668
-"601-800","Florida Institute of Technology","United States of America",669
-"601-800","Fu Jen Catholic University","Taiwan",670
-"601-800","Gdańsk University of Technology","Poland",671
-"601-800","University of Ghana","Ghana",672
-"601-800","Gifu University","Japan",673
-"601-800","Glasgow Caledonian University","United Kingdom",674
-"601-800","University of Greenwich","United Kingdom",675
-"601-800","Hacettepe University","Turkey",676
-"601-800","University of Huddersfield","United Kingdom",677
-"601-800","Hunan University","China",678
-"601-800","University of Ibadan","Nigeria",679
-"601-800","University of Indonesia","Indonesia",680
-"601-800","Inha University","South Korea",681
-"601-800","I-Shou University","Taiwan",682
-"601-800","Istanbul University","Turkey",683
-"601-800","Jagiellonian University","Poland",684
-"601-800","Jilin University","China",685
-"601-800","University of Jordan","Jordan",686
-"601-800","Jordan University of Science and Technology","Jordan",687
-"601-800","Juntendo University","Japan",688
-"601-800","K.N. Toosi University of Technology","Iran",689
-"601-800","Kaohsiung Medical University","Taiwan",690
-"601-800","Khon Kaen University","Thailand",691
-"601-800","King Mongkut’s University of Technology Thonburi","Thailand",692
-"601-800","Kingston University","United Kingdom",693
-"601-800","Kinki University","Japan",694
-"601-800","Kobe University","Japan",695
-"601-800","Konkuk University","South Korea",696
-"601-800","Kumamoto University","Japan",697
-"601-800","Kyungpook National University","South Korea",698
-"601-800","Kyushu Institute of Technology","Japan",699
-"601-800","University of Latvia","Latvia",700
-"601-800","Lille 1 University – Science and Technology","France",701
-"601-800","University of Lincoln","United Kingdom",702
-"601-800","University of Ljubljana","Slovenia",703
-"601-800","University of Marrakech Cadi Ayyad","Morocco",704
-"601-800","Miami University","United States of America",705
-"601-800","Middlesex University","United Kingdom",706
-"601-800","Moscow Institute of Physics and Technology","Russian Federation",707
-"601-800","University of Murcia","Spain",708
-"601-800","Nagasaki University","Japan",709
-"601-800","University of Nairobi","Kenya",710
-"601-800","National Chengchi University","Taiwan",711
-"601-800","National Chung Cheng University","Taiwan",712
-"601-800","National Chung Hsing University","Taiwan",713
-"601-800","National Taipei University of Technology","Taiwan",714
-"601-800","National Taiwan Ocean University","Taiwan",715
-"601-800","National University of Córdoba","Argentina",716
-"601-800","National University of Science and Technology (MISiS)","Russian Federation",717
-"601-800","National University of Sciences and Technology","Pakistan",718
-"601-800","Niigata University","Japan",719
-"601-800","Northumbria University","United Kingdom",720
-"601-800","Northwestern Polytechnical University","China",721
-"601-800","Nottingham Trent University","United Kingdom",722
-"601-800","Oakland University","United States of America",723
-"601-800","Ocean University of China","China",724
-"601-800","Ohio University","United States of America",725
-"601-800","Okayama University","Japan",726
-"601-800","Osaka Prefecture University","Japan",727
-"601-800","University of Pardubice","Czech Republic",728
-"601-800","University of Paris North – Paris 13","France",729
-"601-800","Paris-Sorbonne University – Paris 4","France",730
-"601-800","University of Patras","Greece",731
-"601-800","University of Pécs","Hungary",732
-"601-800","Polytechnic University of Valencia","Spain",733
-"601-800","Pontifical Catholic University of Paraná","Brazil",734
-"601-800","Pontifical Catholic University of Rio Grande do Sul (PUCRS)","Brazil",735
-"601-800","Pontifical Catholic University of Valparaíso","Chile",736
-"601-800","Prince of Songkla University","Thailand",737
-"601-800","Qatar University","Qatar",738
-"601-800","Rio de Janeiro State University (UERJ)","Brazil",739
-"601-800","Rochester Institute of Technology","United States of America",740
-"601-800","Saitama University","Japan",741
-"601-800","University of Salford","United Kingdom",742
-"601-800","University of Santiago, Chile (USACH)","Chile",743
-"601-800","São Paulo State University (UNESP)","Brazil",744
-"601-800","Savitribai Phule Pune University","India",745
-"601-800","University of Science and Technology Beijing","China",746
-"601-800","Sejong University","South Korea",747
-"601-800","University of Seoul","South Korea",748
-"601-800","Shahid Beheshti University","Iran",749
-"601-800","Shanghai University","China",750
-"601-800","Shantou University","China",751
-"601-800","Sheffield Hallam University","United Kingdom",752
-"601-800","Shinshu University","Japan",753
-"601-800","Showa University","Japan",754
-"601-800","Sichuan University","China",755
-"601-800","University of Silesia in Katowice","Poland",756
-"601-800","Slovak University of Technology in Bratislava","Slovakia",757
-"601-800","Sogang University","South Korea",758
-"601-800","Sophia University","Japan",759
-"601-800","University of South Africa","South Africa",760
-"601-800","Southern Federal University","Russian Federation",761
-"601-800","University of Southern Mississippi","United States of America",762
-"601-800","University of Southern Queensland","Australia",763
-"601-800","Suez Canal University","Egypt",764
-"601-800","Sultan Qaboos University","Oman",765
-"601-800","Suranaree University of Technology","Thailand",766
-"601-800","University of Szeged","Hungary",767
-"601-800","Taipei Medical University","Taiwan",768
-"601-800","Taras Shevchenko National University of Kyiv","Ukraine",769
-"601-800","Technical University of Madrid","Spain",770
-"601-800","University of Tehran","Iran",771
-"601-800","University of Texas at El Paso","United States of America",772
-"601-800","Texas Tech University","United States of America",773
-"601-800","Tokai University","Japan",774
-"601-800","Tokushima University","Japan",775
-"601-800","Tokyo University of Marine Science and Technology","Japan",776
-"601-800","Tokyo University of Science","Japan",777
-"601-800","Tomsk State University","Russian Federation",778
-"601-800","Tottori University","Japan",779
-"601-800","Toyohashi University of Technology","Japan",780
-"601-800","Universiti Kebangsaan Malaysia","Malaysia",781
-"601-800","Universiti Putra Malaysia","Malaysia",782
-"601-800","Universiti Sains Malaysia","Malaysia",783
-"601-800","Universiti Teknologi MARA","Malaysia",784
-"601-800","Ural Federal University","Russian Federation",785
-"601-800","V.N. Karazin Kharkiv National University","Ukraine",786
-"601-800","University of Vigo","Spain",787
-"601-800","Vilnius University","Lithuania",788
-"601-800","Warsaw University of Technology","Poland",789
-"601-800","Waseda University","Japan",790
-"601-800","University of West Bohemia","Czech Republic",791
-"601-800","University of the West of England","United Kingdom",792
-"601-800","West University of Timişoara","Romania",793
-"601-800","University of Westminster","United Kingdom",794
-"601-800","Xidian University","China",795
-"601-800","Yeungnam University","South Korea",796
-"601-800","Yıldız Technical University","Turkey",797
-"601-800","Yokohama City University","Japan",798
-"601-800","Yokohama National University","Japan",799
-"601-800","Yuan Ze University","Taiwan",800
+"world_rank","university_name","country","total_score","id"
+"1","California Institute of Technology","United States of America","95.2",1
+"2","University of Oxford","United Kingdom","94.2",2
+"3","Stanford University","United States of America","93.9",3
+"4","University of Cambridge","United Kingdom","92.8",4
+"5","Massachusetts Institute of Technology","United States of America","92.0",5
+"6","Harvard University","United States of America","91.6",6
+"7","Princeton University","United States of America","90.1",7
+"8","Imperial College London","United Kingdom","89.1",8
+"9","ETH Zurich – Swiss Federal Institute of Technology Zurich","Switzerland","88.3",9
+"10","University of Chicago","United States of America","87.9",10
+"11","Johns Hopkins University","United States of America","87.6",11
+"12","Yale University","United States of America","87.4",12
+"13","University of California, Berkeley","United States of America","87.2",13
+"14","University College London","United Kingdom","87.1",14
+"15","Columbia University","United States of America","86.1",15
+"16","University of California, Los Angeles","United States of America","85.8",16
+"17","University of Pennsylvania","United States of America","85.2",17
+"18","Cornell University","United States of America","84.0",18
+"19","University of Toronto","Canada","83.9",19
+"20","Duke University","United States of America","82.7",20
+"21","University of Michigan","United States of America","82.4",21
+"22","Carnegie Mellon University","United States of America","82.3",22
+"23","London School of Economics and Political Science","United Kingdom","81.3",23
+"24","University of Edinburgh","United Kingdom","80.3",24
+"25","Northwestern University","United States of America","79.5",25
+"26","National University of Singapore","Singapore","79.2",26
+"27","King’s College London","United Kingdom","78.2",27
+"28","Karolinska Institute","Sweden","77.5",28
+"29","LMU Munich","Germany","77.3",29
+"30","New York University","United States of America","77.2",30
+"31","École Polytechnique Fédérale de Lausanne","Switzerland","76.1",31
+"32","University of Washington","United States of America","75.6",32
+"33","University of Melbourne","Australia","75.4",33
+"34","University of British Columbia","Canada","75.3",34
+"35","KU Leuven","Belgium","74.8",35
+"36","University of Illinois at Urbana-Champaign","United States of America","74.5",36
+"37","Heidelberg University","Germany","74.4",37
+"38","McGill University","Canada","72.6",38
+"39","University of California, San Diego","United States of America","72.2",39
+"39","University of California, Santa Barbara","United States of America","72.2",40
+"41","Georgia Institute of Technology","United States of America","72.1",41
+"42","Peking University","China","72.0",42
+"43","University of Tokyo","Japan","71.1",43
+"44","University of California, Davis","United States of America","71.0",44
+"44","University of Hong Kong","Hong Kong","71.0",45
+"46","University of Texas at Austin","United States of America","70.3",46
+"47","Tsinghua University","China","70.0",47
+"47","Wageningen University and Research Center","Netherlands","70.0",48
+"49","Humboldt University of Berlin","Germany","69.9",49
+"50","University of Wisconsin-Madison","United States of America","69.7",50
+"51","Brown University","United States of America","69.6",51
+"52","Australian National University","Australia","69.5",52
+"53","Technical University of Munich","Germany","69.4",53
+"54","École Normale Supérieure","France","69.0",54
+"55","Nanyang Technological University","Singapore","68.2",55
+"56","University of Manchester","United Kingdom","68.1",56
+"56","University of Sydney","Australia","68.1",57
+"58","University of Amsterdam","Netherlands","67.8",58
+"59","Hong Kong University of Science and Technology","Hong Kong","67.2",59
+"60","The University of Queensland","Australia","67.0",60
+"60","Washington University in St Louis","United States of America","67.0",61
+"62","Utrecht University","Netherlands","66.6",62
+"63","University of North Carolina at Chapel Hill","United States of America","66.4",63
+"64","Boston University","United States of America","66.1",64
+"65","Delft University of Technology","Netherlands","65.9",65
+"65","University of Minnesota","United States of America","65.9",66
+"67","Leiden University","Netherlands","65.7",67
+"68","University of Southern California","United States of America","65.5",68
+"69","University of Bristol","United Kingdom","64.3",69
+"70","Durham University","United Kingdom","63.6",70
+"71","Erasmus University Rotterdam","Netherlands","63.5",71
+"72","Free University of Berlin","Germany","63.2",72
+"73","Monash University","Australia","62.5",73
+"74","University of Groningen","Netherlands","62.4",74
+"75","Pennsylvania State University","United States of America","62.3",75
+"76","University of Glasgow","United Kingdom","61.9",76
+"76","University of Helsinki","Finland","61.9",77
+"78","University of Tübingen","Germany","61.7",78
+"79","University of Pittsburgh","United States of America","61.5",79
+"80","University of Warwick","United Kingdom","61.3",80
+"81","Uppsala University","Sweden","61.2",81
+"82","University of Copenhagen","Denmark","61.0",82
+"82","University of New South Wales","Australia","61.0",83
+"84","University of Freiburg","Germany","60.7",84
+"85","Seoul National University","South Korea","60.5",85
+"86","University of St Andrews","United Kingdom","60.4",86
+"87","Vanderbilt University","United States of America","60.1",87
+"88","Kyoto University","Japan","59.9",88
+"88","Maastricht University","Netherlands","59.9",89
+"90","Emory University","United States of America","59.7",90
+"90","Lund University","Sweden","59.7",91
+"90","Ohio State University","United States of America","59.7",92
+"93","University of Exeter","United Kingdom","59.5",93
+"94","University of Bonn","Germany","58.8",94
+"94","Georgetown University","United States of America","58.8",95
+"94","McMaster University","Canada","58.8",96
+"97","University of Sheffield","United Kingdom","58.6",97
+"98","Queen Mary University of London","United Kingdom","58.5",98
+"99","University of Göttingen","Germany","58.0",99
+"99","Michigan State University","United States of America","58.0",100
+"101","University of Basel","Switzerland","57.9",101
+"101","École Polytechnique","France","57.9",102
+"101","Rice University","United States of America","57.9",103
+"104","Dartmouth College","United States of America","57.8",104
+"104","University of Zurich","Switzerland","57.8",105
+"106","Aarhus University","Denmark","57.7",106
+"106","University of California, Irvine","United States of America","57.7",107
+"106","University of Mannheim","Germany","57.7",108
+"108","University of Notre Dame","United States of America","57.6",109
+"109","University of Western Australia","Australia","57.5",110
+"110","RWTH Aachen University","Germany","57.2",111
+"110","University of Southampton","United Kingdom","57.2",112
+"112","Scuola Normale Superiore di Pisa","Italy","57.1",113
+"113","University of Montreal","Canada","57.0",114
+"113","Pierre and Marie Curie University","France","57.0",115
+"113","Purdue University","United States of America","57.0",116
+"116","Pohang University of Science and Technology","South Korea","56.9",117
+"117","University of Maryland, College Park","United States of America","56.7",118
+"118","Ghent University","Belgium","56.6",119
+"119","University of Birmingham","United Kingdom","56.2",120
+"120","University of Bern","Switzerland","56.1",121
+"120","University of Cape Town","South Africa","56.1",122
+"120","University of Florida","United States of America","56.1",123
+"123","University of Erlangen-Nuremberg","Germany","56.0",124
+"123","Rutgers, the State University of New Jersey","United States of America","56.0",125
+"125","University of Münster","Germany","55.9",126
+"125","Radboud University Nijmegen","Netherlands","55.9",127
+"127","University of Colorado Boulder","United States of America","55.8",128
+"127","Tufts University","United States of America","55.8",129
+"129","Royal Holloway, University of London","United Kingdom","55.7",130
+"130","Lancaster University","United Kingdom","55.6",131
+"131","University of Geneva","Switzerland","55.4",132
+"131","University of York","United Kingdom","55.4",133
+"133","Case Western Reserve University","United States of America","55.3",134
+"133","University of Leeds","United Kingdom","55.3",135
+"135","University of Oslo","Norway","55.1",136
+"136","Stockholm University","Sweden","54.8",137
+"137","University of Alberta","Canada","54.7",138
+"138","Chinese University of Hong Kong","Hong Kong","54.5",139
+"138","Karlsruhe Institute of Technology","Germany","54.5",140
+"140","University of Sussex","United Kingdom","54.4",141
+"141","University of Massachusetts","United States of America","54.3",142
+"142","University of Vienna","Austria","54.2",143
+"143","University of Nottingham","United Kingdom","54.1",144
+"144","University of California, Santa Cruz","United States of America","53.9",145
+"144","University of Lausanne","Switzerland","53.9",146
+"146","Autonomous University of Barcelona","Spain","53.8",147
+"147","University of Virginia","United States of America","53.3",148
+"148","Korea Advanced Institute of Science and Technology (KAIST)","South Korea","53.0",149
+"149","University of Adelaide","Australia","52.9",150
+"149","University of East Anglia","United Kingdom","52.9",151
+"149","University of Twente","Netherlands","52.9",152
+"153","Sungkyunkwan University (SKKU)","South Korea","52.8",153
+"154","VU University Amsterdam","Netherlands","52.5",154
+"155","KTH Royal Institute of Technology","Sweden","52.4",155
+"156","University of Cologne","Germany","52.3",156
+"157","University of Liverpool","United Kingdom","52.2",157
+"158","TU Dresden","Germany","52.1",158
+"158","University of Rochester","United States of America","52.1",159
+"160","Trinity College Dublin","Republic of Ireland","52.0",160
+"161","Lomonosov Moscow State University","Russian Federation","51.9",161
+"161","University of Miami","United States of America","51.9",162
+"163","University of Arizona","United States of America","51.7",163
+"164","Pompeu Fabra University","Spain","51.2",164
+"164","University of Reading","United Kingdom","51.2",165
+"164","Yeshiva University","United States of America","51.2",166
+"167","University of California, Riverside","United States of America","51.1",167
+"167","University of Leicester","United Kingdom","51.1",168
+"167","National Taiwan University","Taiwan","51.1",169
+"167","Technical University of Denmark","Denmark","51.1",170
+"167","Université Catholique de Louvain","Belgium","51.1",171
+"172","University of Aberdeen","United Kingdom","51.0",172
+"172","University of Auckland","New Zealand","51.0",173
+"174","University of Barcelona","Spain","50.9",174
+"175","University of Konstanz","Germany","50.8",175
+"176","Eindhoven University of Technology","Netherlands","50.6",176
+"176","University College Dublin","Republic of Ireland","50.6",177
+"178","Hebrew University of Jerusalem","Israel","50.5",178
+"179","University of Waterloo","Canada","50.3",179
+"180","University of Gothenburg","Sweden","50.2",180
+"180","Scuola Superiore Sant’Anna","Italy","50.2",181
+"182","University of Bergen","Norway","50.1",182
+"182","Cardiff University","United Kingdom","50.1",183
+"182","University of Utah","United States of America","50.1",184
+"185","Brandeis University","United States of America","49.9",185
+"185","University of Dundee","United Kingdom","49.9",186
+"185","University of Würzburg","Germany","49.9",187
+"188","Paris-Sud University","France","49.8",188
+"189","Arizona State University","United States of America","49.7",189
+"190","University of Antwerp","Belgium","49.6",190
+"190","Boston College","United States of America","49.6",191
+"192","Ulm University","Germany","49.5",192
+"193","University of Luxembourg","Luxembourg","49.4",193
+"193","Texas A&M University","United States of America","49.4",194
+"195","Charité - Universitätsmedizin Berlin","Germany","49.3",195
+"196","Newcastle University","United Kingdom","49.2",196
+"196","St George’s, University of London","United Kingdom","49.2",197
+"198","University of Trento","Italy","49.1",198
+"199","Paris Diderot University – Paris 7","France","48.9",199
+"200","Queen’s University Belfast","United Kingdom","48.8",200
+"201-250","Aalborg University","Denmark","-",201
+"201-250","Birkbeck, University of London","United Kingdom","-",202
+"201-250","University of Bologna","Italy","-",203
+"201-250","University at Buffalo","United States of America","-",204
+"201-250","University of Calgary","Canada","-",205
+"201-250","Chalmers University of Technology","Sweden","-",206
+"201-250","City University of Hong Kong","Hong Kong","-",207
+"201-250","Copenhagen Business School","Denmark","-",208
+"201-250","Dalhousie University","Canada","-",209
+"201-250","University of Duisburg-Essen","Germany","-",210
+"201-250","École Normale Supérieure de Lyon","France","-",211
+"201-250","Florida State University","United States of America","-",212
+"201-250","University of Fribourg","Switzerland","-",213
+"201-250","Fudan University","China","-",214
+"201-250","George Washington University","United States of America","-",215
+"201-250","Goethe University Frankfurt","Germany","-",216
+"201-250","University of Hawai’i at Mānoa","Unisted States of America","-",217
+"201-250","Hong Kong Polytechnic University","Hong Kong","-",218
+"201-250","University of Illinois at Chicago","United States of America","-",219
+"201-250","Indiana University","United States of America","-",220
+"201-250","University of Iowa","United States of America","-",221
+"201-250","Johannes Gutenberg University of Mainz","Germany","-",222
+"201-250","Joseph Fourier University","France","-",223
+"201-250","University of Kiel","Germany","-",224
+"201-250","Laval University","Canada","-",225
+"201-250","Medical University of Vienna","Austria","-",226
+"201-250","Northeastern University","United States of America","-",227
+"201-250","Oregon Health and Science University","United States of America","-",228
+"201-250","University of Otago","New Zealand","-",229
+"201-250","University of Ottawa","Canada","-",230
+"201-250","Paris Descartes University","France","-",231
+"201-250","Peter the Great St Petersburg Polytechnic University","Russian Federation","-",232
+"201-250","Polytechnic University of Milan","Italy","-",233
+"201-250","Royal Veterinary College","United Kingdom","-",234
+"201-250","Rush University","United States of America","-",235
+"201-250","Sapienza University of Rome","Italy","-",236
+"201-250","University of Science and Technology of China","China","-",237
+"201-250","University of South Florida","United States of America","-",238
+"201-250","Stony Brook University","United States of America","-",239
+"201-250","University of Stuttgart","Germany","-",240
+"201-250","Swedish University of Agricultural Sciences","Sweden","-",241
+"201-250","Technical University of Darmstadt","Germany","-",242
+"201-250","University of Technology Sydney","Australia","-",243
+"201-250","Tel Aviv University","Israel","-",244
+"201-250","University of Texas at Dallas","United States of America","-",245
+"201-250","Tilburg University","Netherlands","-",246
+"201-250","Tohoku University","Japan","-",247
+"201-250","Tokyo Institute of Technology","Japan","-",248
+"201-250","University of Victoria","Canada","-",249
+"201-250","Wake Forest University","United States of America","-",250
+"201-250","University of Western Ontario","Canada","-",251
+"201-250","William & Mary","United States of America","-",252
+"201-250","University of the Witwatersrand","South Africa","-",253
+"251-300","Aalto University","Finland","-",254
+"251-300","Aix-Marseille University","France","-",255
+"251-300","University of Bath","United Kingdom","-",256
+"251-300","Bayreuth University","Germany","-",257
+"251-300","Bielefeld University","Germany","-",258
+"251-300","University of Bordeaux","France","-",259
+"251-300","Charles Darwin University","Australia","-",260
+"251-300","Colorado School of Mines","United States of America","-",261
+"251-300","Colorado State University","United States of America","-",262
+"251-300","University of Delaware","United States of America","-",263
+"251-300","Flinders University","Australia","-",264
+"251-300","University of Georgia","United States of America","-",265
+"251-300","Griffith University","Australia","-",266
+"251-300","University of Iceland","Iceland","-",267
+"251-300","Indian Institute of Science","India","-",268
+"251-300","Iowa State University","United States of America","-",269
+"251-300","James Cook University","Australia","-",270
+"251-300","Justus Liebig University Giessen","Germany","-",271
+"251-300","King Abdulaziz University","Saudi Arabia","-",272
+"251-300","Koç University","Turkey","-",273
+"251-300","Korea University","South Korea","-",274
+"251-300","University of Liège","Belgium","-",275
+"251-300","Linköping University","Sweden","-",276
+"251-300","Nanjing University","China","-",277
+"251-300","National Tsing Hua University","Taiwan","-",278
+"251-300","National University of Ireland, Galway","Republic of Ireland","-",279
+"251-300","University of Newcastle","Australia","-",280
+"251-300","North Carolina State University","United States of America","-",281
+"251-300","Oregon State University","United States of America","-",282
+"251-300","Osaka University","Japan","-",283
+"251-300","Queen’s University","Canada","-",284
+"251-300","Queensland University of Technology","Australia","-",285
+"251-300","Rensselaer Polytechnic Institute","United States of America","-",286
+"251-300","Royal College of Surgeons in Ireland","Republic of Ireland","-",287
+"251-300","Ruhr University Bochum","Germany","-",288
+"251-300","Saint Louis University","United States of America","-",289
+"251-300","University of São Paulo","Brazil","-",290
+"251-300","Simon Fraser University","Canada","-",291
+"251-300","University of Surrey","United Kingdom","-",292
+"251-300","Syracuse University","United States of America","-",293
+"251-300","University of Tasmania","Australia","-",294
+"251-300","University of Tennessee, Knoxville","United States of America","-",295
+"251-300","Tomsk Polytechnic University","Russian Federation","-",296
+"251-300","Tulane University","United States of America","-",297
+"251-300","Umeå University","Sweden","-",298
+"251-300","Vienna University of Technology","Austria","-",299
+"251-300","Virginia Polytechnic Institute and State University","United States of America","-",300
+"251-300","University of Wollongong","Australia","-",301
+"251-300","Zhejiang University","China","-",302
+"301-350","Aberystwyth University","United Kingdom","-",303
+"301-350","University of Alaska Fairbanks","United States of America","-",304
+"301-350","Autonomous University of Madrid","Spain","-",305
+"301-350","Bangor University","United Kingdom","-",306
+"301-350","University of Bremen","Germany","-",307
+"301-350","University of Cincinnati","United States of America","-",308
+"301-350","University of Connecticut","United States of America","-",309
+"301-350","Deakin University","Australia","-",310
+"301-350","University of Essex","United Kingdom","-",311
+"301-350","George Mason University","United States of America","-",312
+"301-350","University of Greifswald","Germany","-",313
+"301-350","Gwangju Institute of Science and Technology","South Korea","-",314
+"301-350","University of Hohenheim","Germany","-",315
+"301-350","University of Innsbruck","Austria","-",316
+"301-350","Kazan Federal University","Russian Federation","-",317
+"301-350","University of Kent","United Kingdom","-",318
+"301-350","Leibniz University of Hanover","Germany","-",319
+"301-350","Macquarie University","Australia","-",320
+"301-350","Medical College of Wisconsin","United States of America","-",321
+"301-350","University of Milan","Italy","-",322
+"301-350","University of Milan-Bicocca","Italy","-",323
+"301-350","Montpellier University","France","-",324
+"301-350","Nagoya University","Japan","-",325
+"301-350","University of Naples Federico II","Italy","-",326
+"301-350","National Chiao Tung University","Taiwan","-",327
+"301-350","National Research Nuclear University MePhI","Russian Federation","-",328
+"301-350","National Taiwan University of Science and Technology (Taiwan Tech)","Taiwan","-",329
+"301-350","University of Navarra","Spain","-",330
+"301-350","University of Nebraska-Lincoln","United States of America","-",331
+"301-350","Örebro University","Sweden","-",332
+"301-350","University of Oregon","United States of America","-",333
+"301-350","University of Padua","Italy","-",334
+"301-350","University of Pavia","Italy","-",335
+"301-350","Plymouth University","United Kingdom","-",336
+"301-350","Shanghai Jiao Tong University","China","-",337
+"301-350","University of Southern Denmark","Denmark","-",338
+"301-350","Stellenbosch University","South Africa","-",339
+"301-350","University of Strasbourg","France","-",340
+"301-350","Technical University of Dortmund","Germany","-",341
+"301-350","Technion Israel Institute of Technology","Israel","-",342
+"301-350","Toulouse 1 Capitole University","France","-",343
+"301-350","University of Trieste","Italy","-",344
+"301-350","University of Turin","Italy","-",345
+"301-350","University of Turku","Finland","-",346
+"301-350","Vrije Universiteit Brussel","Belgium","-",347
+"301-350","VŠB - Technical University of Ostrava","Czech Republic","-",348
+"301-350","Yonsei University","South Korea","-",349
+"301-350","York University","Canada","-",350
+"351-400","Bilkent University","Turkey","-",351
+"351-400","Binghamton University, State University of New York","United States of America","-",352
+"351-400","University of Crete","Greece","-",353
+"351-400","University of Cyprus","Cyprus","-",354
+"351-400","Drexel University","United States of America","-",355
+"351-400","University of Eastern Finland","Finland","-",356
+"351-400","University of Florence","Italy","-",357
+"351-400","University of St Gallen","Switzerland","-",358
+"351-400","Graz University of Technology","Austria","-",359
+"351-400","University of Guelph","Canada","-",360
+"351-400","Hanyang University","South Korea","-",361
+"351-400","Hong Kong Baptist University","Hong Kong","-",362
+"351-400","University of Houston","United States of America","-",363
+"351-400","Indian Institute of Technology Bombay","India","-",364
+"351-400","Instituto Superior Técnico Lisboa","Portugal","-",365
+"351-400","University of Jyväskylä","Finland","-",366
+"351-400","La Trobe University","Australia","-",367
+"351-400","Loughborough University","United Kingdom","-",368
+"351-400","University of Manitoba","Canada","-",369
+"351-400","University of Missouri","United States of America","-",370
+"351-400","University of Modena and Reggio Emilia","Italy","-",371
+"351-400","University of Montana","United States of America","-",372
+"351-400","National University of Ireland, Maynooth","Republic of Ireland","-",373
+"351-400","University of Nebraska Medical Center","United States of America","-",374
+"351-400","University of New Mexico","United States of America","-",375
+"351-400","Norwegian University of Science and Technology","Norway","-",376
+"351-400","University of Oulu","Finland","-",377
+"351-400","Panthéon-Sorbonne University – Paris 1","France","-",378
+"351-400","Polytechnic University of Turin","Italy","-",379
+"351-400","University of Rome III","Italy","-",380
+"351-400","Sabancı University","Turkey","-",381
+"351-400","San Diego State University","United States of America","-",382
+"351-400","University of South Australia","Australia","-",383
+"351-400","University of South Carolina","United States of America","-",384
+"351-400","University of South Dakota","United States of America","-",385
+"351-400","State University of Campinas","Brazil","-",386
+"351-400","University of Stirling","United Kingdom","-",387
+"351-400","Sun Yat-sen University","China","-",388
+"351-400","Swansea University","United Kingdom","-",389
+"351-400","Swinburne University of Technology","Australia","-",390
+"351-400","University of Tartu","Estonia","-",391
+"351-400","Temple University","United States of America","-",392
+"351-400","University of Texas at San Antonio","United States of America","-",393
+"351-400","UiT The Arctic University of Norway","Norway","-",394
+"351-400","Université Libre de Bruxelles","Belgium","-",395
+"351-400","Lille 2 University – Health and Law","France","-",396
+"351-400","University College Cork","Republic of Ireland","-",397
+"351-400","Verona University","Italy","-",398
+"351-400","Victoria University of Wellington","New Zealand","-",399
+"351-400","Washington State University","United States of America","-",400
+"351-400","Wayne State University","United States of America","-",401
+"401-500","American University","United States of America","-",402
+"401-500","Aston University","Unted Kingdom","-",403
+"401-500","University of Aveiro","Portugal","-",404
+"401-500","University of Bari Aldo Moro","Italy","-",405
+"401-500","Bar-Ilan University","Israel","-",406
+"401-500","Bournemouth University","United Kingdom","-",407
+"401-500","University of Brescia","Italy","-",408
+"401-500","Brno University of Technology","Czech Republic","-",409
+"401-500","Brunel University London","United Kingdom","-",410
+"401-500","Ca’ Foscari University of Venice","Italy","-",411
+"401-500","University of Cagliari","Italy","-",412
+"401-500","University of Canterbury","New Zealand","-",413
+"401-500","Catholic University of the Sacred Heart","Italy","-",414
+"401-500","Charles University in Prague","Czech Republic","-",415
+"401-500","China Medical University, Taiwan","Taiwan","-",416
+"401-500","City University London","United Kingdom","-",417
+"401-500","Claude Bernard University Lyon 1","France","-",418
+"401-500","University of Coimbra","Portugal","-",419
+"401-500","Complutense University of Madrid","Spain","-",420
+"401-500","Concordia University","Canada","-",421
+"401-500","Curtin University","Australia","-",422
+"401-500","Dublin City University","Republic of Ireland","-",423
+"401-500","East China University of Science and Technology","China","-",424
+"401-500","Ewha Womans University","South Korea","-",425
+"401-500","Federico Santa María Technical University","Chile","-",426
+"401-500","University of Ferrara","Italy","-",427
+"401-500","Florida International University","United States of America","-",428
+"401-500","University of Genoa","Italy","-",429
+"401-500","Georgia State University","United States of America","-",430
+"401-500","University of Graz","Austria","-",431
+"401-500","Heriot-Watt University","United Kingdom","-",432
+"401-500","Hokkaido University","Japan","-",433
+"401-500","Howard University","United States of America","-",434
+"401-500","University of Hull","United Kingdom","-",435
+"401-500","University of Idaho","United States of America","-",436
+"401-500","Indian Institute of Technology Delhi","India","-",437
+"401-500","Indian Institute of Technology Kharagpur","India","-",438
+"401-500","Indian Institute of Technology Madras","India","-",439
+"401-500","University of Ioannina","Greece","-",440
+"401-500","Iran University of Science and Technology","Iran","-",441
+"401-500","Johannes Kepler University of Linz","Austria","-",442
+"401-500","University of Kaiserslautern","Germany","-",443
+"401-500","Keele University","United Kingdom","-",444
+"401-500","University of KwaZulu-Natal","South Africa","-",445
+"401-500","Kyung Hee University","South Korea","-",446
+"401-500","Kyushu University","Japan","-",447
+"401-500","Lehigh University","United States of America","-",448
+"401-500","Louisiana State University","United States of America","-",449
+"401-500","University of Macau","Macau","-",450
+"401-500","Makerere University","Uganda","-",451
+"401-500","Marche Polytechnic University","Italy","-",452
+"401-500","University of Maryland, Baltimore County","United States of America","-",453
+"401-500","Murdoch University","Australia","-",454
+"401-500","University of Nantes","France","-",455
+"401-500","National and Kapodistrian University of Athens","Greece","-",456
+"401-500","National Autonomous University of Mexico","Mexico","-",457
+"401-500","National Cheng Kung University","Taiwan","-",458
+"401-500","National Institute of Applied Sciences of Lyon (INSA Lyon)","France","-",459
+"401-500","National Yang-Ming University","Taiwan","-",460
+"401-500","University of Neuchâtel","Switzerland","-",461
+"401-500","New University of Lisbon","Portugal","-",462
+"401-500","University of Nice Sophia Antipolis","France","-",463
+"401-500","Novosibirsk State University","Russian Federation","-",464
+"401-500","The Open University","United Kingdom","-",465
+"401-500","Oxford Brookes University","United Kingdom","-",466
+"401-500","University of Palermo","Italy","-",467
+"401-500","University of Parma","Italy","-",468
+"401-500","University of Pisa","Italy","-",469
+"401-500","Polytechnic University of Catalonia","Spain","-",470
+"401-500","Pontifical Catholic University of Chile","Chile","-",471
+"401-500","University of Porto","Portugal","-",472
+"401-500","University of Portsmouth","United Kingdom","-",473
+"401-500","RMIT University","Australia","-",474
+"401-500","University of Rome II – Tor Vergata","Italy","-",475
+"401-500","University of Rovira i Virgili","Spain","-",476
+"401-500","Saint Petersburg State University","Russian Federation","-",477
+"401-500","University of Salento","Italy","-",478
+"401-500","University of San Francisco","United States of America","-",479
+"401-500","University of Saskatchewan","Canada","-",480
+"401-500","Sharif University of Technology","Iran","-",481
+"401-500","University of Siena","Italy","-",482
+"401-500","Southern Cross University","Australia","-",483
+"401-500","State University of New York Albany","United States of America","-",484
+"401-500","University of Strathclyde","United Kingdom","-",485
+"401-500","University of Tampere","Finland","-",486
+"401-500","Tampere University of Technology","Finland","-",487
+"401-500","Tokyo Medical and Dental University (TMDU)","Japan","-",488
+"401-500","Tokyo Metropolitan University","Japan","-",489
+"401-500","University of Tsukuba","Japan","-",490
+"401-500","University of Ulsan","South Korea","-",491
+"401-500","Ulster University","United Kingdom","-",492
+"401-500","Université du Québec à Montréal","Canada","-",493
+"401-500","Universiti Teknologi Malaysia","Malaysia","-",494
+"401-500","University of Urbino Carlo Bo","Italy","-",495
+"401-500","University of Valencia","Spain","-",496
+"401-500","University of Waikato","New Zealand","-",497
+"401-500","Western Sydney University","Australia","-",498
+"401-500","Wuhan University","China","-",499
+"401-500","Xiamen University","China","-",500
+"501-600","American University of Beirut","Lebanon","-",501
+"501-600","Amirkabir University of Technology","Iran","-",502
+"501-600","University of the Andes, Colombia","Colombia","-",503
+"501-600","University of Arkansas","United States of America","-",504
+"501-600","Auburn University","United States of America","-",505
+"501-600","Babeş-Bolyai University","Romania","-",506
+"501-600","University of the Basque Country","Spain","-",507
+"501-600","Bauman Moscow State Technical University","Russian Federation","-",508
+"501-600","Ben-Gurion University of the Negev","Israel","-",509
+"501-600","Blaise Pascal University","France","-",510
+"501-600","Boğaziçi University","Turkey","-",511
+"501-600","University of Burgundy","France","-",512
+"501-600","University of Canberra","Australia","-",513
+"501-600","Carleton University","Canada","-",514
+"501-600","University of Catania","Italy","-",515
+"501-600","Central Queensland University","Australia","-",516
+"501-600","University of Chile","Chile","-",517
+"501-600","China Agricultural University","China","-",518
+"501-600","Chung-Ang University","South Korea","-",519
+"501-600","Czech Technical University in Prague","Czech Republic","-",520
+"501-600","De Montfort University","United Kingdom","-",521
+"501-600","East China Normal University","China","-",522
+"501-600","Edith Cowan University","Australia","-",523
+"501-600","Federal University of Rio de Janeiro","Brazil","-",524
+"501-600","University of Granada","Spain","-",525
+"501-600","University of Haifa","Israel","-",526
+"501-600","Harbin Institute of Technology","China","-",527
+"501-600","University of Hertfordshire","United Kingdom","-",528
+"501-600","Hiroshima University","Japan","-",529
+"501-600","Huazhong University of Science and Technology","China","-",530
+"501-600","Indian Institute of Technology Guwahati","India","-",531
+"501-600","Indian Institute of Technology Kanpur","India","-",532
+"501-600","Indian Institute of Technology Roorkee","India","-",533
+"501-600","Isfahan University of Technology","Iran","-",534
+"501-600","Istanbul Technical University","Turkey","-",535
+"501-600","Jadavpur University","India","-",536
+"501-600","Kanazawa University","Japan","-",537
+"501-600","Kansas State University","United States of America","-",538
+"501-600","Keio University","Japan","-",539
+"501-600","Kent State University","United States of America","-",540
+"501-600","King Fahd University of Petroleum and Minerals","Saudi Arabia","-",541
+"501-600","King Saud University","Saudi Arabia","-",542
+"501-600","University of La Laguna","Spain","-",543
+"501-600","Lappeenranta University of Technology","Finland","-",544
+"501-600","University of Limerick","Republic of Ireland","-",545
+"501-600","University of Lisbon","Portugal","-",546
+"501-600","Liverpool John Moores University","United Kingdom","-",547
+"501-600","Mahidol University","Thailand","-",548
+"501-600","Manchester Metropolitan University","United Kingdom","-",549
+"501-600","University of Maribor","Slovenia","-",550
+"501-600","Masaryk University","Czech Republic","-",551
+"501-600","Massey University","New Zealand","-",552
+"501-600","Memorial University of Newfoundland","Canada","-",553
+"501-600","Middle East Technical University","Turkey","-",554
+"501-600","University of Minho","Portugal","-",555
+"501-600","Missouri University of Science and Technology","United States of America","-",556
+"501-600","Montana State University","United States of America","-",557
+"501-600","Monterrey Institute of Technology and Higher Education","Mexico","-",558
+"501-600","National Central University","Taiwan","-",559
+"501-600","National Sun Yat-Sen University","Taiwan","-",560
+"501-600","National Taiwan Normal University","Taiwan","-",561
+"501-600","National Technical University of Athens","Greece","-",562
+"501-600","New Jersey Institute of Technology","United States of America","-",563
+"501-600","New Mexico State University","United States of America","-",564
+"501-600","University of North Carolina at Greensboro","United States of America","-",565
+"501-600","Oklahoma State University","United States of America","-",566
+"501-600","Osaka City University","Japan","-",567
+"501-600","Otto von Guericke University of Magdeburg","Germany","-",568
+"501-600","University of Oviedo","Spain","-",569
+"501-600","Palacký University in Olomouc","Czech Republic","-",570
+"501-600","Panjab University","India","-",571
+"501-600","Paris Dauphine University","France","-",572
+"501-600","Pontifical Catholic University of Rio de Janeiro (PUC-Rio)","Brazil","-",573
+"501-600","Portland State University","United States of America","-",574
+"501-600","University of Pretoria","South Africa","-",575
+"501-600","Pusan National University","South Korea","-",576
+"501-600","Quaid-i-azam University","Pakistan","-",577
+"501-600","University of Regina","Canada","-",578
+"501-600","Renmin University of China","China","-",579
+"501-600","University of Rennes 1","France","-",580
+"501-600","University of Salamanca","Spain","-",581
+"501-600","University of Santiago de Compostela","Spain","-",582
+"501-600","Semmelweis University","Hungary","-",583
+"501-600","University of Seville","Spain","-",584
+"501-600","Université de Sherbrooke","Canada","-",585
+"501-600","Soochow University","China","-",586
+"501-600","South China University of Technology","China","-",587
+"501-600","Tallinn University of Technology","Estonia","-",588
+"501-600","Tehran University of Medical Sciences","Iran","-",589
+"501-600","University of Texas at Arlington","United States of America","-",590
+"501-600","Tianjin University","China","-",591
+"501-600","Tokyo University of Agriculture and Technology","Japan","-",592
+"501-600","University of Toledo","United States of America","-",593
+"501-600","Tongji University","China","-",594
+"501-600","University of Tulsa","United States of America","-",595
+"501-600","United Arab Emirates University","United Arab Emirates","-",596
+"501-600","University of Warsaw","Poland","-",597
+"501-600","University of Wisconsin-Milwaukee","United States of America","-",598
+"501-600","Xi’an Jiaotong University","China","-",599
+"501-600","University of Zaragoza","Spain","-",600
+"601-800","University of A Coruña","Spain","-",601
+"601-800","Adam Mickiewicz University","Poland","-",602
+"601-800","AGH University of Science and Technology","Poland","-",603
+"601-800","Ajou University","South Korea","-",604
+"601-800","University of Alcalá","Spain","-",605
+"601-800","Alexandria University","Egypt","-",606
+"601-800","Alexandru Ioan Cuza University","Romania","-",607
+"601-800","Aligarh Muslim University","India","-",608
+"601-800","American University of Sharjah","United Arab Emirates","-",609
+"601-800","Amrita University","India","-",610
+"601-800","Anadolu University","Turkey","-",611
+"601-800","Andhra University","India","-",612
+"601-800","University of Antioquia","Colombia","-",613
+"601-800","Aristotle University of Thessaloniki","Greece","-",614
+"601-800","Asia University, Taiwan","Taiwan","-",615
+"601-800","Athens University of Economics and Business","Greece","-",616
+"601-800","Auckland University of Technology","New Zealand","-",617
+"601-800","Austral University of Chile","Chile","-",618
+"601-800","Beijing Institute of Technology","China","-",619
+"601-800","Belarusian State University","Belarus","-",620
+"601-800","University of Belgrade","Serbia","-",621
+"601-800","Birla Institute of Technology and Science, Pilani","India","-",622
+"601-800","University of Bradford","United Kingdom","-",623
+"601-800","University of Brasília","Brazil","-",624
+"601-800","University of Brighton","United Kingdom","-",625
+"601-800","University of Bucharest","Romania","-",626
+"601-800","Budapest University of Technology and Economics","Hungary","-",627
+"601-800","Cairo University","Egypt","-",628
+"601-800","University of Calcutta","India","-",629
+"601-800","California State University, Long Beach","United States of America","-",630
+"601-800","Capital Medical University","China","-",631
+"601-800","University of Castilla-La Mancha","Spain","-",632
+"601-800","University of Central Lancashire","United Kingdom","-",633
+"601-800","University of Cergy-Pontoise","France","-",634
+"601-800","Chang Gung University","Taiwan","-",635
+"601-800","Carlos III University of Madrid","Spain","-",636
+"601-800","University of Chemistry and Technology, Prague","Czech Republic","-",637
+"601-800","Chiang Mai University","Thailand","-",638
+"601-800","Chiba University","Japan","-",639
+"601-800","China University of Geosciences (Wuhan)","China","-",640
+"601-800","China University of Petroleum (Beijing)","China","-",641
+"601-800","Chonbuk National University","South Korea","-",642
+"601-800","Chongqing University","China","-",643
+"601-800","Chonnam National University","South Korea","-",644
+"601-800","Chulalongkorn University","Thailand","-",645
+"601-800","Chung Yuan Christian University","Taiwan","-",646
+"601-800","Chungnam National University","South Korea","-",647
+"601-800","Clemson University","United States of America","-",648
+"601-800","Comenius University in Bratislava","Slovakia","-",649
+"601-800","Coventry University","United Kingdom","-",650
+"601-800","Dalian University of Technology","China","-",651
+"601-800","University of Debrecen","Hungary","-",652
+"601-800","University of Delhi","India","-",653
+"601-800","University of Dhaka","Bangladesh","-",654
+"601-800","Dublin Institute of Technology","Republic of Ireland","-",655
+"601-800","Ehime University","Japan","-",656
+"601-800","University of Electronic Science and Technology of China","China","-",657
+"601-800","Eötvös Loránd University","Hungary","-",658
+"601-800","Erciyes University","Turkey","-",659
+"601-800","Federal University of Bahia","Brazil","-",660
+"601-800","Federal University of Minas Gerais","Brazil","-",661
+"601-800","Federal University of Paraná (UFPR)","Brazil","-",662
+"601-800","Federal University of Rio Grande do Sul","Brazil","-",663
+"601-800","Federal University of Santa Catarina","Brazil","-",664
+"601-800","Federal University of São Carlos","Brazil","-",665
+"601-800","Federal University of Viçosa","Brazil","-",666
+"601-800","Federal University of Lavras","Brazil","-",667
+"601-800","Feng Chia University","Taiwan","-",668
+"601-800","Florida Institute of Technology","United States of America","-",669
+"601-800","Fu Jen Catholic University","Taiwan","-",670
+"601-800","Gdańsk University of Technology","Poland","-",671
+"601-800","University of Ghana","Ghana","-",672
+"601-800","Gifu University","Japan","-",673
+"601-800","Glasgow Caledonian University","United Kingdom","-",674
+"601-800","University of Greenwich","United Kingdom","-",675
+"601-800","Hacettepe University","Turkey","-",676
+"601-800","University of Huddersfield","United Kingdom","-",677
+"601-800","Hunan University","China","-",678
+"601-800","University of Ibadan","Nigeria","-",679
+"601-800","University of Indonesia","Indonesia","-",680
+"601-800","Inha University","South Korea","-",681
+"601-800","I-Shou University","Taiwan","-",682
+"601-800","Istanbul University","Turkey","-",683
+"601-800","Jagiellonian University","Poland","-",684
+"601-800","Jilin University","China","-",685
+"601-800","University of Jordan","Jordan","-",686
+"601-800","Jordan University of Science and Technology","Jordan","-",687
+"601-800","Juntendo University","Japan","-",688
+"601-800","K.N. Toosi University of Technology","Iran","-",689
+"601-800","Kaohsiung Medical University","Taiwan","-",690
+"601-800","Khon Kaen University","Thailand","-",691
+"601-800","King Mongkut’s University of Technology Thonburi","Thailand","-",692
+"601-800","Kingston University","United Kingdom","-",693
+"601-800","Kinki University","Japan","-",694
+"601-800","Kobe University","Japan","-",695
+"601-800","Konkuk University","South Korea","-",696
+"601-800","Kumamoto University","Japan","-",697
+"601-800","Kyungpook National University","South Korea","-",698
+"601-800","Kyushu Institute of Technology","Japan","-",699
+"601-800","University of Latvia","Latvia","-",700
+"601-800","Lille 1 University – Science and Technology","France","-",701
+"601-800","University of Lincoln","United Kingdom","-",702
+"601-800","University of Ljubljana","Slovenia","-",703
+"601-800","University of Marrakech Cadi Ayyad","Morocco","-",704
+"601-800","Miami University","United States of America","-",705
+"601-800","Middlesex University","United Kingdom","-",706
+"601-800","Moscow Institute of Physics and Technology","Russian Federation","-",707
+"601-800","University of Murcia","Spain","-",708
+"601-800","Nagasaki University","Japan","-",709
+"601-800","University of Nairobi","Kenya","-",710
+"601-800","National Chengchi University","Taiwan","-",711
+"601-800","National Chung Cheng University","Taiwan","-",712
+"601-800","National Chung Hsing University","Taiwan","-",713
+"601-800","National Taipei University of Technology","Taiwan","-",714
+"601-800","National Taiwan Ocean University","Taiwan","-",715
+"601-800","National University of Córdoba","Argentina","-",716
+"601-800","National University of Science and Technology (MISiS)","Russian Federation","-",717
+"601-800","National University of Sciences and Technology","Pakistan","-",718
+"601-800","Niigata University","Japan","-",719
+"601-800","Northumbria University","United Kingdom","-",720
+"601-800","Northwestern Polytechnical University","China","-",721
+"601-800","Nottingham Trent University","United Kingdom","-",722
+"601-800","Oakland University","United States of America","-",723
+"601-800","Ocean University of China","China","-",724
+"601-800","Ohio University","United States of America","-",725
+"601-800","Okayama University","Japan","-",726
+"601-800","Osaka Prefecture University","Japan","-",727
+"601-800","University of Pardubice","Czech Republic","-",728
+"601-800","University of Paris North – Paris 13","France","-",729
+"601-800","Paris-Sorbonne University – Paris 4","France","-",730
+"601-800","University of Patras","Greece","-",731
+"601-800","University of Pécs","Hungary","-",732
+"601-800","Polytechnic University of Valencia","Spain","-",733
+"601-800","Pontifical Catholic University of Paraná","Brazil","-",734
+"601-800","Pontifical Catholic University of Rio Grande do Sul (PUCRS)","Brazil","-",735
+"601-800","Pontifical Catholic University of Valparaíso","Chile","-",736
+"601-800","Prince of Songkla University","Thailand","-",737
+"601-800","Qatar University","Qatar","-",738
+"601-800","Rio de Janeiro State University (UERJ)","Brazil","-",739
+"601-800","Rochester Institute of Technology","United States of America","-",740
+"601-800","Saitama University","Japan","-",741
+"601-800","University of Salford","United Kingdom","-",742
+"601-800","University of Santiago, Chile (USACH)","Chile","-",743
+"601-800","São Paulo State University (UNESP)","Brazil","-",744
+"601-800","Savitribai Phule Pune University","India","-",745
+"601-800","University of Science and Technology Beijing","China","-",746
+"601-800","Sejong University","South Korea","-",747
+"601-800","University of Seoul","South Korea","-",748
+"601-800","Shahid Beheshti University","Iran","-",749
+"601-800","Shanghai University","China","-",750
+"601-800","Shantou University","China","-",751
+"601-800","Sheffield Hallam University","United Kingdom","-",752
+"601-800","Shinshu University","Japan","-",753
+"601-800","Showa University","Japan","-",754
+"601-800","Sichuan University","China","-",755
+"601-800","University of Silesia in Katowice","Poland","-",756
+"601-800","Slovak University of Technology in Bratislava","Slovakia","-",757
+"601-800","Sogang University","South Korea","-",758
+"601-800","Sophia University","Japan","-",759
+"601-800","University of South Africa","South Africa","-",760
+"601-800","Southern Federal University","Russian Federation","-",761
+"601-800","University of Southern Mississippi","United States of America","-",762
+"601-800","University of Southern Queensland","Australia","-",763
+"601-800","Suez Canal University","Egypt","-",764
+"601-800","Sultan Qaboos University","Oman","-",765
+"601-800","Suranaree University of Technology","Thailand","-",766
+"601-800","University of Szeged","Hungary","-",767
+"601-800","Taipei Medical University","Taiwan","-",768
+"601-800","Taras Shevchenko National University of Kyiv","Ukraine","-",769
+"601-800","Technical University of Madrid","Spain","-",770
+"601-800","University of Tehran","Iran","-",771
+"601-800","University of Texas at El Paso","United States of America","-",772
+"601-800","Texas Tech University","United States of America","-",773
+"601-800","Tokai University","Japan","-",774
+"601-800","Tokushima University","Japan","-",775
+"601-800","Tokyo University of Marine Science and Technology","Japan","-",776
+"601-800","Tokyo University of Science","Japan","-",777
+"601-800","Tomsk State University","Russian Federation","-",778
+"601-800","Tottori University","Japan","-",779
+"601-800","Toyohashi University of Technology","Japan","-",780
+"601-800","Universiti Kebangsaan Malaysia","Malaysia","-",781
+"601-800","Universiti Putra Malaysia","Malaysia","-",782
+"601-800","Universiti Sains Malaysia","Malaysia","-",783
+"601-800","Universiti Teknologi MARA","Malaysia","-",784
+"601-800","Ural Federal University","Russian Federation","-",785
+"601-800","V.N. Karazin Kharkiv National University","Ukraine","-",786
+"601-800","University of Vigo","Spain","-",787
+"601-800","Vilnius University","Lithuania","-",788
+"601-800","Warsaw University of Technology","Poland","-",789
+"601-800","Waseda University","Japan","-",790
+"601-800","University of West Bohemia","Czech Republic","-",791
+"601-800","University of the West of England","United Kingdom","-",792
+"601-800","West University of Timişoara","Romania","-",793
+"601-800","University of Westminster","United Kingdom","-",794
+"601-800","Xidian University","China","-",795
+"601-800","Yeungnam University","South Korea","-",796
+"601-800","Yıldız Technical University","Turkey","-",797
+"601-800","Yokohama City University","Japan","-",798
+"601-800","Yokohama National University","Japan","-",799
+"601-800","Yuan Ze University","Taiwan","-",800

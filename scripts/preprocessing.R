@@ -84,6 +84,8 @@ for (i in 1:length(universities$num_students))
   }
 }
 # fill missing values with median
+hist(universities$nr_students,prob=TRUE, 
+     main="Histogram of num_students",xlab="num_students")
 universities$nr_students[is.na(universities$nr_students)] = round(median(universities$nr_students,na.rm=TRUE))
 # remove temp column nr_students
 universities$num_students = universities$nr_students
@@ -91,7 +93,8 @@ universities = universities[ , -which(names(universities) %in% c("nr_students"))
 
 ### variable: student_staff_ratio ###
 # fill missing student staff ratios with median
-hist(universities$student_staff_ratio,prob=TRUE)
+hist(universities$student_staff_ratio,prob=TRUE, 
+     main="Histogram of student_staff_ratio",xlab="student_staff_ratio")
 universities$student_staff_ratio[is.na(universities$student_staff_ratio)] = 
   median(universities$student_staff_ratio,na.rm=TRUE)
 
@@ -99,9 +102,9 @@ universities$student_staff_ratio[is.na(universities$student_staff_ratio)] =
 universities$id = 1:nrow(universities)
 
 # move descriptive columns to seperate dataframe, keep id in both to cross-reference
-columns = c("id", "university_name", "country", "world_rank")
+columns = c("id", "university_name", "country", "world_rank", "total_score")
 university_info = universities[ , which(names(universities) %in% columns)]
-universities = universities[,-which(names(universities) %in% setdiff(columns,"id"))]
+universities = universities[,-which(names(universities) %in% setdiff(columns,c("id","total_score")))]
 
 # write cleaned data set to csv
 write.csv(universities, file="csv/universities-cleaned.csv", row.names=FALSE)
