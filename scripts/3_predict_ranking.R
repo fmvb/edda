@@ -21,7 +21,7 @@ prediction$predict_rank = 1:nrow(prediction)
 
 ### Compare predicted and actual rank
 uni_info = read.csv(file='csv/universities-info.csv',header=TRUE,sep=",")
-result = merge(prediction, uni_info[c(1,4)], by="id")
+result = merge(prediction, uni_info[c(1,4,5)], by="id")
 result$predict_rank_group = result$predict_rank
 # For Rank 200+ the world_rank is binned
 # Bins: [201-250], [251-300], [301-350], [401-500], [501-600], [601-800]

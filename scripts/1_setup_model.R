@@ -10,7 +10,9 @@ cor(universities)
 pairs(universities)
 
 columns = c("total_score", "teaching", "research", "citations", "international_students")
-cor(universities[,which(names(universities) %in% columns)])
+round(cor(universities[,which(names(universities) %in% columns)]),3)
+pairs(universities[,which(names(universities) %in% columns)])
+columns = c("teaching", "research")
 pairs(universities[,which(names(universities) %in% columns)])
 
 ################################################
