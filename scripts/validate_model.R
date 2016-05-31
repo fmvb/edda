@@ -18,15 +18,19 @@ prediction$predict_rank = 1:nrow(prediction)
 ### Compare predicted and actual rank
 uni_info = read.csv(file='csv/universities-info.csv',header=TRUE,sep=",",nrows=200)
 result = merge(prediction, uni_info[c(1,4)], by="id")
+exact = sum(result$predict_rank == result$world_rank)
+one_off = sum(abs(result$predict_rank-result$world_rank) <= 1)
+at_most_five = sum(abs(result$predict_rank-result$world_rank) <= 3)
+
 exact = sum(result$predict_rank == result$id)
 one_off = sum(abs(result$predict_rank-result$id) <= 1)
-at_most_five = sum(abs(result$predict_rank-result$id) <= 5)
+at_most_five = sum(abs(result$predict_rank-result$id) <= 3)
 
 printResults = function(exact, one_off, at_most_five, nresult)
 {
   cat("Accuracy of prediction top 200: \n");
   cat(paste("Exact matches:\t", (exact/nresult)*100.0, "%\n", sep=""));
   cat(paste("One off:\t", (one_off/nresult)*100.0, "%\n", sep=""));
-  cat(paste("At most 5 off:\t", (at_most_five/nresult)*100.0, "%", sep=""));
+  cat(paste("At most 3 off:\t", (at_most_five/nresult)*100.0, "%", sep=""));
 }
 printResults(exact, one_off, at_most_five, nrow(universities))
